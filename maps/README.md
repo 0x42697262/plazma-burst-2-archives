@@ -7,6 +7,10 @@
 - [cahir-traps4.xml](./cahir-traps4.xml)
 - [cahir-traps9.xml](./cahir-traps9.xml)
 
+### Selfboost
+
+- [xx_miguel_xx-jumps2.xml](./xx_miguel_xx-jumps2.xml)
+
 ### Base
 
 - [kubakuba-base2.xml](./kubakuba-base2.xml)
@@ -19,3 +23,4 @@
 ### Team VS 
 
 - [jackass90-ghost_vs_civil.xml](./jackass90-ghost_vs_civil.xml)
+
