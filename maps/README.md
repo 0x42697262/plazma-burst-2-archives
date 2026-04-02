@@ -33,6 +33,7 @@
 ### Zombie Infection
 
 - [noir line-infection](./noir%20line-infection.xml)
+- [badghostkiller-infection](./badghostkiller-infection.xml)
 
 ## Team Deathmatch
 
