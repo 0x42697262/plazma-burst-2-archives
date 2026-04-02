@@ -1,0 +1,932 @@
+<player uid="#player*1" x="-2180" y="-700" tox="0" toy="0" hea="500" hmax="500" team="8" side="1" char="137" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*2" x="-2140" y="-700" tox="0" toy="0" hea="130" hmax="500" team="8" side="1" char="145" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*3" x="-2100" y="-700" tox="0" toy="0" hea="130" hmax="500" team="8" side="1" char="145" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*4" x="-2060" y="-700" tox="0" toy="0" hea="130" hmax="500" team="8" side="1" char="146" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*5" x="-2020" y="-700" tox="0" toy="0" hea="130" hmax="500" team="8" side="1" char="146" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*9" x="-1880" y="-900" tox="0" toy="0" hea="130" hmax="500" team="8" side="-1" char="137" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*1" x="-1150" y="-390" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*2" x="-1210" y="-390" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*3" x="-1270" y="-390" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*6" x="-1340" y="-390" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*4" x="-1400" y="-390" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*10" x="-1080" y="-390" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="11" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*13" x="10" y="-430" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="23" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*5" x="-560" y="-100" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="26" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*7" x="-340" y="-100" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="26" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*8" x="140" y="-100" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*14" x="280" y="-100" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*19" x="730" y="-100" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*20" x="810" y="-100" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*11" x="4520" y="-890" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*9" x="4720" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*15" x="5150" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*16" x="4740" y="-510" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*18" x="4950" y="-510" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*17" x="5080" y="-620" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*12" x="5160" y="-630" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*22" x="5060" y="-740" tox="0" toy="0" hea="130" hmax="900" team="0" side="-1" char="11" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*23" x="5140" y="-740" tox="0" toy="0" hea="130" hmax="900" team="0" side="-1" char="11" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*24" x="4610" y="-700" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*21" x="4660" y="-700" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*25" x="5700" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*30" x="6000" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*31" x="6290" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*28" x="6580" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*27" x="6800" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*33" x="8100" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*35" x="8300" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*26" x="8530" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*39" x="8650" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*32" x="8780" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*34" x="8920" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*38" x="10210" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*36" x="10290" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*44" x="10610" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*29" x="10710" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*37" x="11000" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*41" x="11080" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*40" x="11370" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*50" x="11470" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*46" x="11850" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*42" x="11930" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*53" x="12280" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*43" x="12330" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*48" x="12860" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*45" x="12960" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*58" x="13750" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="17" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*72" x="13980" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="17" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*52" x="14960" y="-700" tox="0" toy="0" hea="1000" hmax="2000" team="0" side="-1" char="18" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*55" x="15340" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*60" x="15460" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*49" x="15610" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*59" x="15900" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*67" x="16000" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*65" x="16120" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*63" x="16530" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*51" x="16600" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*61" x="16670" y="-540" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*73" x="16290" y="-840" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="17" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*75" x="1560" y="-340" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*56" x="1710" y="-340" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*69" x="2150" y="-340" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*79" x="2330" y="-340" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*47" x="2900" y="-340" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*54" x="2960" y="-340" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*92" x="3550" y="-340" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*85" x="3610" y="-340" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*64" x="17530" y="-1300" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*68" x="17620" y="-1300" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*66" x="17710" y="-1300" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*76" x="17820" y="-1300" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*62" x="17910" y="-1300" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*83" x="18020" y="-1300" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*87" x="18110" y="-1290" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*71" x="18210" y="-1300" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*94" x="18310" y="-1300" tox="0" toy="0" hea="130" hmax="400" team="0" side="-1" char="7" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*70" x="19490" y="-910" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="17" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*86" x="19590" y="-910" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="17" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*74" x="19700" y="-910" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="17" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*89" x="18770" y="-1300" tox="0" toy="0" hea="130" hmax="700" team="0" side="1" char="84" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*99" x="19160" y="-1300" tox="0" toy="0" hea="130" hmax="700" team="0" side="1" char="84" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*80" x="19400" y="-910" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="17" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*93" x="19790" y="-910" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="17" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*97" x="20590" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*78" x="20740" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*100" x="20800" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*95" x="20860" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*108" x="20940" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*90" x="21140" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*98" x="21220" y="-740" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*104" x="21310" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*88" x="21400" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*101" x="21450" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*57" x="21680" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*91" x="21750" y="-730" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*77" x="22020" y="-610" tox="0" toy="0" hea="130" hmax="1000" team="0" side="-1" char="18" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*107" x="21980" y="-610" tox="0" toy="0" hea="130" hmax="1000" team="0" side="-1" char="18" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*114" x="23180" y="-610" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="27" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*84" x="23340" y="-610" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="27" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*111" x="23250" y="-610" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="27" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*81" x="23430" y="-610" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="27" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*126" x="23600" y="-600" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="27" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*102" x="23700" y="-600" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="27" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*116" x="23810" y="-610" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="27" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*103" x="23880" y="-610" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="27" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*117" x="24120" y="-1880" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*120" x="24550" y="-1570" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*125" x="24940" y="-1780" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*112" x="24610" y="-1870" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*115" x="24300" y="-1450" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*113" x="24860" y="-1370" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*106" x="25760" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*124" x="25900" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*123" x="26040" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*118" x="26190" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*109" x="26300" y="-600" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*122" x="26400" y="-600" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*140" x="28230" y="-1220" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*110" x="29400" y="-620" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*121" x="29470" y="-620" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*138" x="29580" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*129" x="29660" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*131" x="30700" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*142" x="30810" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*82" x="30900" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*132" x="30970" y="-600" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*143" x="31020" y="-620" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*105" x="31920" y="-1110" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*119" x="32030" y="-1110" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*147" x="31920" y="-990" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*128" x="32010" y="-990" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*146" x="32100" y="-990" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*158" x="32570" y="-940" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*134" x="32680" y="-940" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="1" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*133" x="32630" y="-940" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*152" x="31930" y="-810" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*137" x="31990" y="-810" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*148" x="32070" y="-810" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*127" x="32150" y="-810" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*139" x="32540" y="-800" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*163" x="32620" y="-800" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*162" x="32680" y="-800" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="1" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*136" x="33410" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*159" x="33480" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*96" x="33600" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*144" x="33680" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*164" x="33730" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*141" x="34250" y="-690" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*169" x="34340" y="-790" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*151" x="34420" y="-870" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*168" x="34490" y="-950" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*166" x="34560" y="-1040" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*135" x="34640" y="-1120" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*145" x="34720" y="-1220" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*149" x="34810" y="-1230" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*150" x="34850" y="-1230" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*174" x="34940" y="-1310" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*153" x="35070" y="-1410" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*156" x="35280" y="-1410" tox="0" toy="0" hea="130" hmax="600" team="0" side="-1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*186" x="35350" y="-1410" tox="0" toy="0" hea="130" hmax="600" team="0" side="-1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*154" x="35460" y="-1410" tox="0" toy="0" hea="130" hmax="600" team="0" side="-1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*160" x="35560" y="-1410" tox="0" toy="0" hea="130" hmax="600" team="0" side="-1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*167" x="35650" y="-1410" tox="0" toy="0" hea="130" hmax="600" team="0" side="-1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="racines 15(boss)" x="40340" y="-3310" tox="10" toy="10" hea="50000000" hmax="50000000" team="0" side="-1" char="138" incar="-1" botaction="3" ondeath="-1" />
+<enemy uid="#actor*161" x="38030" y="-1600" tox="0" toy="0" hea="130" hmax="100000" team="0" side="-1" char="1" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*165" x="24210" y="-1630" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*130" x="24760" y="-1590" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*185" x="24990" y="-1540" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*155" x="24370" y="-1870" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*188" x="24500" y="-1360" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*157" x="24740" y="-1300" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*192" x="35720" y="-1420" tox="0" toy="0" hea="130" hmax="600" team="0" side="1" char="26" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*200" x="35770" y="-1420" tox="0" toy="0" hea="130" hmax="600" team="0" side="1" char="26" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*177" x="35820" y="-1420" tox="0" toy="0" hea="130" hmax="600" team="0" side="1" char="26" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*170" x="35870" y="-1420" tox="0" toy="0" hea="130" hmax="600" team="0" side="1" char="26" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*175" x="29840" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*183" x="29880" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*176" x="29920" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*179" x="29950" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*208" x="29990" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*189" x="13030" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*173" x="13090" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*226" x="13140" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*171" x="12400" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*187" x="12040" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*195" x="12100" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*178" x="12150" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*204" x="11170" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*215" x="11210" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*213" x="11260" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*172" x="11560" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*203" x="11510" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*198" x="10780" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*197" x="10830" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*193" x="10880" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*181" x="10930" y="-560" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*214" x="8400" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*224" x="7890" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*212" x="8010" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*191" x="7510" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*234" x="7620" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*217" x="7710" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*211" x="7400" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*201" x="7300" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*182" x="7200" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*227" x="7100" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*243" x="7100" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*194" x="6900" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*237" x="6690" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*184" x="6430" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*236" x="5020" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*220" x="4940" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*209" x="4790" y="-330" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*239" x="33330" y="-620" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*202" x="33240" y="-620" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*210" x="33190" y="-610" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*190" x="27460" y="-920" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="23" incar="-1" botaction="2" ondeath="-1" />
+<enemy uid="#actor*206" x="9870" y="-660" tox="0" toy="0" hea="130" hmax="2000" team="0" side="1" char="133" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*231" x="10070" y="-660" tox="0" toy="0" hea="0" hmax="600" team="8" side="-1" char="22" incar="-1" botaction="1" ondeath="-1" />
+<enemy uid="#actor*199" x="39100" y="-3580" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="147" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*207" x="39010" y="-3580" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="147" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*216" x="38910" y="-3580" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="147" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*196" x="38820" y="-3580" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="147" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*230" x="38310" y="-3840" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="147" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*255" x="38120" y="-3840" tox="0" toy="0" hea="130" hmax="700" team="0" side="-1" char="147" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*232" x="37420" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*233" x="37510" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*241" x="37250" y="-2810" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*251" x="37140" y="-2810" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*229" x="37000" y="-2810" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*180" x="36870" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*238" x="36870" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*219" x="36770" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*225" x="36720" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*247" x="36630" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*222" x="36580" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*205" x="36500" y="-2820" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*271" x="36400" y="-2810" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*240" x="36310" y="-2810" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*264" x="36190" y="-2810" tox="0" toy="0" hea="130" hmax="800" team="0" side="1" char="4" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#actor*254" x="40140" y="-3310" tox="0" toy="0" hea="900000" hmax="900000" team="0" side="1" char="149" incar="-1" botaction="0" ondeath="-1" />
+<barrel uid="#barrel*1" model="bar_orange" x="4480" y="-350" tox="0" toy="0" />
+<barrel uid="#barrel*2" model="bar_orange" x="5320" y="-340" tox="0" toy="0" />
+<pushf uid="#pushf*1" x="-2700" y="-910" w="100" h="280" tox="90000000000000" toy="90000000000000" stab="0" damage="0" />
+<pushf uid="#pushf*2" x="-2700" y="-1200" w="90" h="440" tox="100" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*3" x="27710" y="-660" w="0" h="0" tox="0" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*5" x="26640" y="-680" w="1540" h="70" tox="199" toy="100" stab="0" damage="0" />
+<pushf uid="#pushf*7" x="28270" y="-680" w="320" h="80" tox="100000" toy="0" stab="0" damage="-1000" />
+<pushf uid="#pushf*8" x="38310" y="-1480" w="790" h="60" tox="0" toy="50" stab="0" damage="0" />
+<pushf uid="#pushf*4" x="39100" y="-1080" w="1800" h="240" tox="90000000000000000" toy="900000000000000000000" stab="0" damage="0" />
+<pushf uid="#pushf*17" x="40680" y="-1940" w="260" h="850" tox="900000000000" toy="9000000000000" stab="0" damage="0" />
+<image id="48911" width="775" height="266" />
+<image id="49160" width="1600" height="800" />
+<image id="49035" width="400" height="600" />
+<image id="48589" width="132" height="263" />
+<image id="48591" width="311" height="450" />
+<bg x="-1870" y="-780" w="10" h="10" m="10" />
+<bg x="-1900" y="-780" w="50" h="80" m="0" />
+<bg x="-1840" y="-700" w="0" h="0" m="0" />
+<bg x="-1900" y="-790" w="260" h="310" m="10" />
+<bg x="-2150" y="-210" w="0" h="0" m="2" />
+<bg x="-1790" y="-490" w="120" h="10" m="0" />
+<bg x="-2070" y="30" w="0" h="0" m="0" />
+<bg x="-2230" y="-550" w="0" h="0" m="0" />
+<bg x="-1820" y="-530" w="830" h="440" m="10" />
+<bg x="-10" y="-410" w="50" h="420" m="12" />
+<bg x="4510" y="-370" w="0" h="0" m="0" />
+<bg x="4520" y="-1180" w="730" h="680" m="10" />
+<bg x="4530" y="-500" w="70" h="170" m="0" />
+<bg x="4850" y="-500" w="70" h="170" m="0" />
+<bg x="5240" y="-490" w="50" h="160" m="0" />
+<bg x="4870" y="-360" w="40" h="60" m="0" />
+<bg x="4850" y="-360" w="70" h="80" m="0" />
+<bg x="4160" y="-1030" w="10" h="10" m="0" />
+<bg x="-1760" y="-730" w="0" h="0" m="c48911" />
+<bg x="-1810" y="-770" w="30" h="20" m="0" />
+<bg x="16280" y="-830" w="30" h="350" m="12" />
+<bg x="1080" y="-330" w="0" h="0" m="0" />
+<bg x="14740" y="-890" w="240" h="270" m="0" />
+<bg x="14710" y="-610" w="20" h="70" m="12" />
+<bg x="14980" y="-620" w="40" h="80" m="12" />
+<bg x="20520" y="-810" w="0" h="80" m="0" />
+<bg x="20510" y="-820" w="1700" h="210" m="0" />
+<bg x="22210" y="-610" w="0" h="0" m="0" />
+<bg x="22120" y="-760" w="0" h="0" m="0" />
+<bg x="31800" y="-1230" w="1000" h="620" m="0" />
+<bg x="24020" y="-2190" w="1130" h="1590" m="5" />
+<bg x="28610" y="-700" w="180" h="90" m="0" />
+<bg x="16260" y="-880" w="70" h="40" m="0" />
+<bg x="38610" y="-1430" w="0" h="0" m="0" />
+<bg x="-2750" y="-230" w="0" h="0" m="0" />
+<bg x="37990" y="-1680" w="100" h="80" m="0" />
+<bg x="38000" y="-1580" w="0" h="0" m="0" />
+<bg x="38030" y="-1590" w="30" h="180" m="12" />
+<bg x="34940" y="-1300" w="220" h="720" m="1" />
+<bg x="34600" y="-1090" w="350" h="490" m="1" />
+<bg x="34480" y="-940" w="120" h="340" m="1" />
+<bg x="34320" y="-770" w="170" h="160" m="1" />
+<bg x="34490" y="-610" w="0" h="20" m="0" />
+<bg x="9840" y="-830" w="260" h="190" m="10" />
+<bg x="-1690" y="-1390" w="0" h="0" m="0" />
+<bg x="-3560" y="0" w="560" h="290" m="0" />
+<water uid="#water*1" x="9600" y="310" w="0" h="0" damage="0" />
+<water uid="#water*2" x="17280" y="-1290" w="100" h="800" damage="0" />
+<water uid="#water*3" x="1080" y="-340" w="40" h="270" damage="0" />
+<water uid="#water*4" x="24020" y="-2190" w="1290" h="1580" damage="0" />
+<water uid="#water*6" x="28610" y="-700" w="170" h="90" damage="0" />
+<water uid="#water*5" x="32800" y="-1160" w="60" h="560" damage="0" />
+<water uid="#water*9" x="38800" y="-1420" w="120" h="10" damage="999" />
+<water uid="#water*15" x="38310" y="-1490" w="790" h="80" damage="1000" />
+<water uid="#water*7" x="42900" y="-3460" w="210" h="4370" damage="0" />
+<box x="-1840" y="30" w="0" h="0" m="0" />
+<box x="-1900" y="-100" w="910" h="100" m="7" />
+<box x="-1900" y="-590" w="100" h="490" m="7" />
+<box x="-1900" y="-700" w="100" h="110" m="7" />
+<box x="-1600" y="-390" w="590" h="80" m="7" />
+<box x="-1000" y="-470" w="0" h="0" m="0" />
+<box x="-1020" y="-450" w="40" h="300" m="7" />
+<box x="-1690" y="-590" w="710" h="90" m="7" />
+<box x="-1920" y="-710" w="0" h="0" m="0" />
+<box x="-2610" y="-700" w="710" h="60" m="13" />
+<box x="-1900" y="-900" w="100" h="110" m="7" />
+<box x="-1790" y="-900" w="190" h="90" m="7" />
+<box x="-1690" y="-810" w="90" h="220" m="7" />
+<box x="-1810" y="-900" w="120" h="110" m="7" />
+<box x="-1730" y="-510" w="40" h="10" m="0" />
+<box x="-860" y="-30" w="0" h="0" m="1" />
+<box x="-990" y="-100" w="2110" h="450" m="1" />
+<box x="-30" y="-430" w="80" h="30" m="0" />
+<box x="-50" y="-450" w="20" h="50" m="0" />
+<box x="-50" y="-540" w="20" h="40" m="0" />
+<box x="-30" y="-540" w="80" h="10" m="0" />
+<box x="50" y="-540" w="20" h="40" m="0" />
+<box x="50" y="-450" w="20" h="50" m="0" />
+<box x="1130" y="-60" w="0" h="60" m="0" />
+<box x="1120" y="-340" w="3420" h="680" m="1" />
+<box x="4510" y="-370" w="0" h="0" m="0" />
+<box x="4520" y="-330" w="9870" h="700" m="1" />
+<box x="4500" y="-900" w="90" h="400" m="0" />
+<box x="4590" y="-1080" w="80" h="190" m="0" />
+<box x="4480" y="-920" w="20" h="90" m="0" />
+<box x="4700" y="-510" w="380" h="10" m="0" />
+<box x="5200" y="-1190" w="100" h="700" m="0" />
+<box x="5180" y="-600" w="0" h="0" m="0" />
+<box x="5190" y="-600" w="0" h="0" m="0" />
+<box x="4990" y="-620" w="210" h="20" m="0" />
+<box x="4990" y="-740" w="220" h="20" m="0" />
+<box x="4590" y="-700" w="110" h="10" m="0" />
+<box x="5290" y="-1200" w="0" h="0" m="0" />
+<box x="4470" y="-1270" w="820" h="90" m="0" />
+<box x="5200" y="-1270" w="100" h="120" m="0" />
+<box x="6120" y="-320" w="70" h="220" m="0" />
+<box x="10130" y="-560" w="4220" h="280" m="1" />
+<box x="10130" y="-370" w="190" h="120" m="0" />
+<box x="14350" y="-540" w="3980" h="910" m="1" />
+<box x="17370" y="-1300" w="1940" h="690" m="1" />
+<box x="17360" y="-650" w="1950" h="1040" m="0" />
+<box x="19310" y="-910" w="660" h="430" m="1" />
+<box x="19970" y="-610" w="420" h="240" m="1" />
+<box x="20340" y="-610" w="18770" h="970" m="1" />
+<box x="14700" y="-900" w="40" h="270" m="0" />
+<box x="14700" y="-920" w="310" h="40" m="0" />
+<box x="14980" y="-920" w="40" h="300" m="0" />
+<box x="14900" y="-700" w="80" h="10" m="0" />
+<box x="14700" y="-630" w="130" h="20" m="0" />
+<box x="16260" y="-840" w="70" h="10" m="0" />
+<box x="16260" y="-870" w="10" h="30" m="0" />
+<box x="16260" y="-850" w="10" h="10" m="0" />
+<box x="16320" y="-880" w="10" h="40" m="0" />
+<box x="16260" y="-940" w="10" h="30" m="0" />
+<box x="16270" y="-940" w="60" h="10" m="0" />
+<box x="16320" y="-930" w="10" h="20" m="0" />
+<box x="20450" y="-730" w="540" h="30" m="0" />
+<box x="21100" y="-730" w="1100" h="30" m="0" />
+<box x="20450" y="-900" w="70" h="180" m="0" />
+<box x="20520" y="-900" w="1690" h="80" m="0" />
+<box x="20470" y="-910" w="0" h="0" m="0" />
+<box x="23930" y="-920" w="100" h="230" m="0" />
+<box x="23930" y="-2270" w="100" h="1370" m="0" />
+<box x="24000" y="-930" w="40" h="70" m="0" />
+<box x="25150" y="-2090" w="50" h="1480" m="0" />
+<box x="23930" y="-2280" w="1300" h="90" m="0" />
+<box x="24900" y="-1190" w="210" h="30" m="0" />
+<box x="24110" y="-1190" w="210" h="50" m="0" />
+<box x="24570" y="-1050" w="100" h="20" m="0" />
+<box x="24260" y="-1400" w="130" h="30" m="0" />
+<box x="24520" y="-1550" w="120" h="60" m="0" />
+<box x="24590" y="-1850" w="80" h="50" m="0" />
+<box x="24860" y="-1680" w="140" h="10" m="0" />
+<box x="24100" y="-1850" w="120" h="30" m="0" />
+<box x="26600" y="-700" w="30" h="80" m="0" />
+<box x="26600" y="-620" w="30" h="10" m="0" />
+<box x="26760" y="-760" w="50" h="30" m="0" />
+<box x="26930" y="-760" w="40" h="20" m="0" />
+<box x="27040" y="-820" w="40" h="20" m="0" />
+<box x="27240" y="-800" w="70" h="20" m="0" />
+<box x="27420" y="-920" w="80" h="40" m="0" />
+<box x="27560" y="-770" w="40" h="30" m="0" />
+<box x="27730" y="-870" w="20" h="20" m="0" />
+<box x="28010" y="-890" w="80" h="30" m="0" />
+<box x="28160" y="-1050" w="70" h="20" m="0" />
+<box x="28200" y="-1050" w="60" h="410" m="0" />
+<box x="28200" y="-1220" w="60" h="170" m="0" />
+<box x="28200" y="-650" w="70" h="40" m="0" />
+<box x="28600" y="-660" w="10" h="50" m="0" />
+<box x="28780" y="-670" w="20" h="70" m="0" />
+<box x="28600" y="-700" w="10" h="60" m="0" />
+<box x="28780" y="-700" w="20" h="40" m="0" />
+<box x="27830" y="-980" w="60" h="20" m="0" />
+<box x="30600" y="-710" w="20" h="90" m="0" />
+<box x="30600" y="-630" w="20" h="30" m="0" />
+<box x="31800" y="-1100" w="100" h="390" m="0" />
+<box x="31900" y="-800" w="400" h="70" m="0" />
+<box x="32400" y="-800" w="330" h="70" m="0" />
+<box x="31900" y="-990" w="440" h="50" m="0" />
+<box x="32450" y="-940" w="320" h="30" m="0" />
+<box x="32730" y="-1030" w="50" h="430" m="0" />
+<box x="31800" y="-1260" w="100" h="170" m="0" />
+<box x="31890" y="-1110" w="250" h="30" m="0" />
+<box x="32720" y="-1160" w="80" h="570" m="0" />
+<box x="32520" y="-1110" w="210" h="20" m="0" />
+<box x="31800" y="-1340" w="1040" h="110" m="0" />
+<box x="34150" y="-660" w="0" h="0" m="0" />
+<box x="34190" y="-650" w="130" h="30" m="0" />
+<box x="34190" y="-670" w="140" h="60" m="0" />
+<box x="34290" y="-770" w="110" h="100" m="0" />
+<box x="34380" y="-850" w="100" h="80" m="0" />
+<box x="34460" y="-940" w="90" h="100" m="0" />
+<box x="34540" y="-1020" w="70" h="80" m="0" />
+<box x="34600" y="-1090" w="80" h="70" m="0" />
+<box x="34670" y="-1200" w="290" h="110" m="0" />
+<box x="34900" y="-1300" w="140" h="100" m="0" />
+<box x="35000" y="-1400" w="180" h="100" m="0" />
+<box x="35170" y="-1410" w="3930" h="860" m="0" />
+<box x="39090" y="-1410" w="50" h="10" m="0" />
+<box x="39100" y="-1690" w="10" h="280" m="0" />
+<box x="37990" y="-1600" w="100" h="10" m="0" />
+<box x="37990" y="-1630" w="10" h="30" m="0" />
+<box x="38080" y="-1610" w="10" h="10" m="0" />
+<box x="38080" y="-1630" w="10" h="30" m="0" />
+<box x="37990" y="-1700" w="100" h="20" m="0" />
+<box x="39590" y="-3310" w="1540" h="100" m="0" />
+<box x="34890" y="-890" w="0" h="0" m="0" />
+<box x="9930" y="-560" w="0" h="0" m="0" />
+<box x="9930" y="-560" w="200" h="40" m="0" />
+<box x="9930" y="-520" w="0" h="0" m="0" />
+<box x="9900" y="-520" w="0" h="0" m="0" />
+<box x="9800" y="-560" w="130" h="40" m="0" />
+<box x="9730" y="-520" w="60" h="30" m="0" />
+<box x="9790" y="-520" w="10" h="10" m="0" />
+<box x="9660" y="-480" w="60" h="50" m="0" />
+<box x="9710" y="-490" w="20" h="10" m="0" />
+<box x="9610" y="-430" w="50" h="30" m="0" />
+<box x="9560" y="-400" w="50" h="30" m="0" />
+<box x="9510" y="-370" w="50" h="40" m="0" />
+<box x="9800" y="-750" w="40" h="110" m="0" />
+<box x="9840" y="-660" w="80" h="20" m="0" />
+<box x="10100" y="-830" w="40" h="190" m="0" />
+<box x="9800" y="-840" w="40" h="100" m="0" />
+<box x="10000" y="-660" w="100" h="20" m="0" />
+<box x="10040" y="-650" w="0" h="0" m="0" />
+<box x="9800" y="-860" w="350" h="30" m="0" />
+<box x="38290" y="-1600" w="120" h="40" m="0" />
+<box x="38470" y="-1700" w="90" h="30" m="0" />
+<box x="38690" y="-1810" w="120" h="30" m="0" />
+<box x="38810" y="-1990" w="150" h="40" m="0" />
+<box x="38990" y="-2120" w="280" h="90" m="0" />
+<box x="38550" y="-2410" w="240" h="40" m="0" />
+<box x="38850" y="-2250" w="50" h="0" m="0" />
+<box x="38870" y="-2260" w="30" h="20" m="0" />
+<box x="38340" y="-2670" w="70" h="30" m="0" />
+<box x="35990" y="-2810" w="2180" h="110" m="0" />
+<box x="35800" y="-3020" w="140" h="70" m="0" />
+<box x="35640" y="-3280" w="70" h="70" m="0" />
+<box x="35710" y="-3210" w="0" h="0" m="0" />
+<box x="36020" y="-3420" w="170" h="40" m="0" />
+<box x="36390" y="-3650" w="90" h="50" m="0" />
+<box x="36720" y="-3790" w="80" h="50" m="0" />
+<box x="37060" y="-3960" w="110" h="70" m="0" />
+<box x="37450" y="-4190" w="120" h="40" m="0" />
+<box x="37980" y="-3840" w="530" h="150" m="0" />
+<box x="38710" y="-3580" w="770" h="320" m="0" />
+<box x="39600" y="-3400" w="30" h="100" m="0" />
+<box x="39600" y="-3400" w="30" h="100" m="0" />
+<box x="39600" y="-3400" w="30" h="90" m="0" />
+<box x="39600" y="-3400" w="30" h="90" m="0" />
+<box x="39420" y="-3650" w="0" h="0" m="0" />
+<box x="38710" y="-3640" w="30" h="70" m="0" />
+<box x="38710" y="-3650" w="30" h="80" m="0" />
+<box x="38710" y="-3650" w="20" h="80" m="0" />
+<box x="38730" y="-3570" w="0" h="0" m="0" />
+<box x="37990" y="-3910" w="20" h="80" m="0" />
+<box x="37980" y="-3910" w="40" h="90" m="0" />
+<box x="37980" y="-3910" w="40" h="90" m="0" />
+<box x="37980" y="-3910" w="40" h="90" m="0" />
+<box x="37600" y="-2870" w="30" h="60" m="0" />
+<box x="37600" y="-2870" w="30" h="60" m="0" />
+<box x="37600" y="-2870" w="30" h="60" m="0" />
+<box x="37600" y="-2870" w="30" h="60" m="0" />
+<box x="40330" y="-3350" w="0" h="0" m="0" />
+<box x="-3590" y="280" w="1790" h="30" m="0" />
+<box x="-3540" y="60" w="70" h="20" m="0" />
+<box x="-3540" y="140" w="80" h="10" m="0" />
+<box x="-3540" y="200" w="80" h="10" m="0" />
+<box x="-3400" y="140" w="100" h="10" m="0" />
+<box x="-3400" y="60" w="100" h="20" m="0" />
+<box x="-3400" y="200" w="100" h="10" m="0" />
+<box x="-3590" y="0" w="30" h="290" m="0" />
+<box x="-3600" y="-40" w="620" h="40" m="0" />
+<box x="-3010" y="0" w="40" h="200" m="0" />
+<box x="-1810" y="290" w="60" h="400" m="0" />
+<box x="-1810" y="910" w="45240" h="500" m="0" />
+<box x="43250" y="280" w="140" h="260" m="0" />
+<box x="42720" y="-3150" w="0" h="0" m="0" />
+<box x="42410" y="-3140" w="0" h="0" m="0" />
+<box x="42410" y="-3130" w="60" h="50" m="0" />
+<box x="42110" y="-3160" w="60" h="30" m="0" />
+<box x="41880" y="-3210" w="0" h="0" m="0" />
+<box x="41630" y="-3160" w="0" h="0" m="0" />
+<box x="41620" y="-3170" w="0" h="0" m="0" />
+<box x="39400" y="-3970" w="70" h="210" m="0" />
+<box x="39900" y="-3360" w="20" h="50" m="0" />
+<box x="39900" y="-3360" w="20" h="40" m="0" />
+<box x="39900" y="-3360" w="20" h="40" m="0" />
+<box x="39900" y="-3360" w="20" h="50" m="0" />
+<box x="39900" y="-3360" w="20" h="60" m="0" />
+<box x="41130" y="-3300" w="490" h="90" m="0" />
+<door uid="#door*2" x="39410" y="-3760" w="60" h="180" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" />
+<decor uid="#decor*1" model="ship" x="-2350" y="-710" />
+<decor uid="#decor*2" model="darkstar_tree1" x="-220" y="-100" />
+<decor uid="#decor*3" model="darkstar_crate" x="540" y="-140" />
+<decor uid="#decor*4" model="darkstar_healing_kit" x="-2210" y="-700" />
+<decor uid="#decor*5" model="darkstar_camera_left" x="-1900" y="-790" />
+<decor uid="#decor*6" model="darkstar_tree1" x="970" y="-100" />
+<decor uid="#decor*8" model="darkstar_tree2" x="1280" y="-350" />
+<decor uid="#decor*7" model="darkstar_tree2" x="1940" y="-340" />
+<decor uid="#decor*10" model="darkstar_tree2" x="2630" y="-340" />
+<decor uid="#decor*9" model="darkstar_tree2" x="3230" y="-340" />
+<decor uid="#decor*14" model="darkstar_tree2" x="4030" y="-340" />
+<decor uid="#decor*12" model="darkstar_tree2" x="5820" y="-330" />
+<decor uid="#decor*15" model="darkstar_tree2" x="6170" y="-330" />
+<decor uid="#decor*20" model="darkstar_tree2" x="7040" y="-330" />
+<decor uid="#decor*13" model="darkstar_tree2" x="9340" y="-330" />
+<decor uid="#decor*11" model="darkstar_tree2" x="11650" y="-560" />
+<decor uid="#decor*16" model="darkstar_tree1" x="12620" y="-560" />
+<decor uid="#decor*17" model="darkstar_tree2" x="13350" y="-560" />
+<decor uid="#decor*23" model="darkstar_tree2" x="14460" y="-540" />
+<decor uid="#decor*22" model="darkstar_tree2" x="15170" y="-540" />
+<decor uid="#decor*29" model="darkstar_tree2" x="16420" y="-540" />
+<decor uid="#decor*19" model="darkstar_tree2" x="16980" y="-540" />
+<decor uid="#decor*24" model="wall_lamp_down_on" x="14750" y="-880" />
+<decor uid="#decor*32" model="darkstar_camera_right" x="14740" y="-840" />
+<decor uid="#decor*28" model="darkstar_tree2" x="18580" y="-1300" />
+<decor uid="#decor*27" model="darkstar_healing_kit" x="18980" y="-1300" />
+<decor uid="#decor*25" model="wall_lamp_down_on" x="21040" y="-820" />
+<decor uid="#decor*26" model="doomzerker_locker" x="20600" y="-650" />
+<decor uid="#decor*39" model="antigravity" x="21050" y="-610" />
+<decor uid="#decor*31" model="darkstar_camera_right" x="20520" y="-800" />
+<decor uid="#decor*30" model="darkstar_tree2" x="22680" y="-610" />
+<decor uid="#decor*38" model="ray_right" x="28590" y="-690" />
+<decor uid="#decor*34" model="ray_left" x="28290" y="-680" />
+<decor uid="#decor*44" model="ray_right" x="28190" y="-640" />
+<decor uid="#decor*35" model="ray_left" x="27880" y="-640" />
+<decor uid="#decor*40" model="ray_right" x="27840" y="-640" />
+<decor uid="#decor*37" model="ray_left" x="27520" y="-640" />
+<decor uid="#decor*21" model="ray_right" x="27490" y="-640" />
+<decor uid="#decor*47" model="ray_right" x="26950" y="-650" />
+<decor uid="#decor*41" model="ray_left" x="26990" y="-650" />
+<decor uid="#decor*43" model="ray_right" x="27310" y="-650" />
+<decor uid="#decor*36" model="ray_left" x="26640" y="-650" />
+<decor uid="#decor*46" model="c49160" x="39110" y="-1870" />
+<decor uid="#decor*42" model="c49035" x="-3020" y="-1200" />
+<decor uid="#decor*45" model="c48589" x="-2660" y="-780" />
+<decor uid="#decor*18" model="wall_lamp_down_on" x="-1430" y="-500" />
+<decor uid="#decor*55" model="final_place2" x="40960" y="-3310" f="1" />
+<decor uid="#decor*53" model="doomzerker_locker" x="-1580" y="-140" />
+<decor uid="#decor*33" model="doomzerker_locker" x="-1550" y="-140" />
+<decor uid="#decor*52" model="darkstar_weapon_crate" x="-1310" y="-100" />
+<decor uid="#decor*60" model="c48591" x="23700" y="-2260" />
+<decor uid="#decor*56" model="back_lamp_vertical_on" x="-1430" y="-200" />
+<decor uid="#decor*61" model="darkstar_device" x="40570" y="-3310" />
+<decor uid="#decor*57" model="column_green" x="40420" y="-3370" />
+<decor uid="#decor*48" model="column_green" x="40720" y="-3370" />
+<decor uid="#decor*59" model="doomwrath_rapier_idle" x="41380" y="-3340" />
+<gun uid="#gun*1" x="-1830" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*2" x="-1840" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*3" x="-1840" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*4" x="-1840" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*6" x="-1840" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*5" x="-1850" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*7" x="-1840" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*8" x="-1850" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*9" x="-1840" y="-710" model="gun_pistol2" command="-1" upg="0" />
+<gun uid="#gun*10" x="-1950" y="-710" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*12" x="-1960" y="-710" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*16" x="-1950" y="-710" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*11" x="-1950" y="-710" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*14" x="-1950" y="-710" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*17" x="-1950" y="-710" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*20" x="-1950" y="-710" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*19" x="-1390" y="-430" model="boom5_revolver" command="0" upg="0" />
+<gun uid="#gun*21" x="-1330" y="-430" model="boom5_revolver" command="0" upg="0" />
+<gun uid="#gun*13" x="-1270" y="-430" model="boom5_revolver" command="0" upg="0" />
+<gun uid="#gun*15" x="-1200" y="-440" model="boom5_revolver" command="0" upg="0" />
+<gun uid="#gun*18" x="-1150" y="-430" model="boom5_revolver" command="0" upg="0" />
+<gun uid="#gun*28" x="-1070" y="-410" model="boom5_revolver" command="0" upg="0" />
+<gun uid="#gun*25" x="-1310" y="-110" model="incompetence_cr30" command="8" upg="0" />
+<gun uid="#gun*23" x="-1310" y="-110" model="incompetence_cr30" command="8" upg="0" />
+<gun uid="#gun*30" x="-1310" y="-110" model="incompetence_cr30" command="8" upg="0" />
+<gun uid="#gun*24" x="-1310" y="-110" model="incompetence_cr30" command="8" upg="0" />
+<gun uid="#gun*26" x="-1310" y="-110" model="incompetence_cr30" command="8" upg="0" />
+<gun uid="#gun*31" x="-1310" y="-110" model="incompetence_cr30" command="8" upg="0" />
+<gun uid="#gun*36" x="-1310" y="-110" model="incompetence_cr30" command="8" upg="0" />
+<gun uid="#gun*22" x="-1310" y="-110" model="incompetence_cr30" command="8" upg="0" />
+<gun uid="#gun*33" x="10" y="-460" model="darkstar_1_cs_ragequit" command="-1" upg="0" />
+<gun uid="#gun*34" x="-570" y="-130" model="gun_real_rifle" command="-1" upg="2" />
+<gun uid="#gun*40" x="-340" y="-130" model="gun_real_rifle" command="-1" upg="2" />
+<gun uid="#gun*32" x="140" y="-130" model="gun_real_rifle" command="-1" upg="2" />
+<gun uid="#gun*29" x="270" y="-140" model="gun_real_rifle" command="-1" upg="2" />
+<gun uid="#gun*27" x="720" y="-140" model="gun_real_rifle" command="-1" upg="2" />
+<gun uid="#gun*38" x="810" y="-120" model="gun_real_rifle" command="-1" upg="2" />
+<gun uid="#gun*35" x="4530" y="-940" model="darkstar_1_owo_rl" command="-1" upg="0" />
+<gun uid="#gun*39" x="5070" y="-660" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*45" x="5160" y="-660" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*37" x="4950" y="-550" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*51" x="4740" y="-550" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*49" x="4720" y="-370" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*42" x="5140" y="-360" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*56" x="4660" y="-730" model="gun_rl" command="-1" upg="0" />
+<gun uid="#gun*64" x="4610" y="-730" model="gun_rl" command="-1" upg="0" />
+<gun uid="#gun*47" x="4620" y="-1120" model="lazyrain_gravy_rl" command="-1" upg="0" />
+<gun uid="#gun*44" x="1560" y="-380" model="darkstar_1_assault_rifle" command="-1" upg="0" />
+<gun uid="#gun*58" x="1710" y="-380" model="darkstar_1_assault_rifle" command="-1" upg="0" />
+<gun uid="#gun*69" x="2150" y="-380" model="darkstar_1_assault_rifle" command="-1" upg="0" />
+<gun uid="#gun*62" x="2330" y="-380" model="darkstar_1_assault_rifle" command="-1" upg="0" />
+<gun uid="#gun*41" x="2900" y="-380" model="darkstar_1_assault_rifle" command="-1" upg="0" />
+<gun uid="#gun*60" x="2960" y="-380" model="darkstar_1_assault_rifle" command="-1" upg="0" />
+<gun uid="#gun*48" x="5690" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*43" x="5990" y="-360" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*52" x="6280" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*54" x="6570" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*55" x="6790" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*50" x="8090" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*68" x="8290" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*63" x="8520" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*57" x="8640" y="-370" model="gun_real_shotgun" command="0" upg="2" />
+<gun uid="#gun*71" x="8780" y="-370" model="gun_real_shotgun" command="0" upg="2" />
+<gun uid="#gun*59" x="8920" y="-370" model="gun_real_shotgun" command="0" upg="2" />
+<gun uid="#gun*75" x="10200" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*66" x="10290" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*67" x="10600" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*74" x="10700" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*76" x="10990" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*85" x="11070" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*79" x="11360" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*46" x="11460" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*61" x="11850" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*53" x="11930" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*83" x="12270" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*80" x="12330" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*73" x="12850" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*91" x="12960" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*93" x="13760" y="-600" model="gun_gl" command="-1" upg="0" />
+<gun uid="#gun*65" x="13980" y="-590" model="gun_gl" command="-1" upg="0" />
+<gun uid="#gun*94" x="14960" y="-730" model="gun_railgun2" command="0" upg="3" />
+<gun uid="#gun*70" x="14770" y="-650" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*96" x="14770" y="-650" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*82" x="14770" y="-650" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*72" x="14770" y="-650" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*84" x="14770" y="-650" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*90" x="14770" y="-640" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*110" x="14770" y="-640" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*77" x="14770" y="-640" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*100" x="14770" y="-640" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*87" x="14770" y="-640" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*113" x="14770" y="-640" model="thetoppestkek_shotgun_nxs25" command="8" upg="3" />
+<gun uid="#gun*105" x="15330" y="-580" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*88" x="15450" y="-580" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*89" x="15600" y="-580" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*97" x="15890" y="-590" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*86" x="15990" y="-580" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*78" x="16110" y="-590" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*102" x="16530" y="-580" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*92" x="16590" y="-580" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*103" x="16660" y="-580" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*81" x="16290" y="-880" model="gun_sniper" command="-1" upg="0" />
+<gun uid="#gun*109" x="5060" y="-770" model="gun_pixel_rifle" command="0" upg="2" />
+<gun uid="#gun*106" x="5140" y="-770" model="gun_pixel_rifle" command="0" upg="2" />
+<gun uid="#gun*111" x="3550" y="-370" model="gun_real_shotgun" command="-1" upg="0" />
+<gun uid="#gun*107" x="3610" y="-380" model="gun_real_shotgun" command="-1" upg="0" />
+<gun uid="#gun*115" x="17530" y="-1340" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*117" x="17620" y="-1340" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*118" x="17710" y="-1340" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*128" x="17810" y="-1340" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*95" x="17910" y="-1340" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*101" x="18030" y="-1330" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*104" x="18110" y="-1330" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*120" x="18210" y="-1330" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*123" x="18310" y="-1340" model="moonhawk_crossfire" command="0" upg="3" />
+<gun uid="#gun*121" x="18770" y="-1340" model="moonhawk_phantom" command="0" upg="3" />
+<gun uid="#gun*134" x="19160" y="-1340" model="moonhawk_phantom" command="0" upg="3" />
+<gun uid="#gun*108" x="19400" y="-950" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*143" x="19490" y="-950" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*98" x="19590" y="-950" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*116" x="19700" y="-940" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*132" x="19790" y="-950" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*124" x="20590" y="-770" model="lostmydollar_qccv50" command="-1" upg="3" />
+<gun uid="#gun*119" x="20740" y="-780" model="lostmydollar_qccv50" command="-1" upg="3" />
+<gun uid="#gun*122" x="20800" y="-760" model="lostmydollar_qccv50" command="-1" upg="3" />
+<gun uid="#gun*137" x="20860" y="-770" model="lostmydollar_qccv50" command="-1" upg="3" />
+<gun uid="#gun*99" x="20940" y="-770" model="lostmydollar_qccv50" command="-1" upg="3" />
+<gun uid="#gun*135" x="21140" y="-780" model="thetoppestkek_scavenger_sg" command="0" upg="3" />
+<gun uid="#gun*130" x="21210" y="-780" model="thetoppestkek_scavenger_sg" command="0" upg="3" />
+<gun uid="#gun*129" x="21310" y="-760" model="thetoppestkek_scavenger_sg" command="0" upg="3" />
+<gun uid="#gun*114" x="21400" y="-760" model="thetoppestkek_scavenger_sg" command="0" upg="3" />
+<gun uid="#gun*147" x="21460" y="-760" model="thetoppestkek_scavenger_sg" command="0" upg="3" />
+<gun uid="#gun*112" x="21670" y="-770" model="thetoppestkek_scavenger_sg" command="0" upg="3" />
+<gun uid="#gun*138" x="21750" y="-760" model="thetoppestkek_scavenger_sg" command="0" upg="3" />
+<gun uid="#gun*139" x="21980" y="-650" model="gun_raygun" command="0" upg="1" />
+<gun uid="#gun*144" x="22020" y="-640" model="gun_raygun" command="0" upg="1" />
+<gun uid="#gun*149" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*131" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*125" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*142" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*155" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*159" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*162" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*146" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*152" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="1" />
+<gun uid="#gun*126" x="20100" y="-620" model="lostmydollar_qccv50" command="-1" upg="3" />
+<gun uid="#gun*157" x="23180" y="-640" model="gun_minigun" command="0" upg="3" />
+<gun uid="#gun*165" x="23250" y="-640" model="gun_minigun" command="0" upg="3" />
+<gun uid="#gun*127" x="23340" y="-660" model="gun_minigun" command="0" upg="3" />
+<gun uid="#gun*163" x="23420" y="-660" model="gun_minigun" command="0" upg="3" />
+<gun uid="#gun*153" x="23590" y="-650" model="gun_minigun" command="0" upg="3" />
+<gun uid="#gun*164" x="23690" y="-650" model="gun_minigun" command="0" upg="3" />
+<gun uid="#gun*154" x="23800" y="-640" model="gun_minigun" command="0" upg="3" />
+<gun uid="#gun*161" x="23880" y="-640" model="gun_minigun" command="0" upg="3" />
+<gun uid="#gun*133" x="24290" y="-1480" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*156" x="24530" y="-1610" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*151" x="24880" y="-1420" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*148" x="24930" y="-1810" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*172" x="24610" y="-1910" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*140" x="24120" y="-1910" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*177" x="25750" y="-650" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*150" x="25890" y="-650" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*167" x="26030" y="-650" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*141" x="26170" y="-640" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*136" x="26290" y="-650" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*190" x="26380" y="-640" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*158" x="28230" y="-1240" model="boom5_revolver" command="-1" upg="3" />
+<gun uid="#gun*193" x="29400" y="-660" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*182" x="29470" y="-660" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*180" x="29580" y="-640" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*173" x="29660" y="-640" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*169" x="30690" y="-650" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*170" x="30810" y="-650" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*171" x="30900" y="-640" model="darkstar_1_assault_rifle" command="0" upg="0" />
+<gun uid="#gun*183" x="30970" y="-650" model="gun_rifle" command="0" upg="3" />
+<gun uid="#gun*179" x="31020" y="-660" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*196" x="31920" y="-1130" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*168" x="32030" y="-1150" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*176" x="32100" y="-1030" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*194" x="32020" y="-1030" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*195" x="31930" y="-1030" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*209" x="32570" y="-980" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*178" x="32630" y="-980" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*187" x="32670" y="-980" model="gun_rifle" command="-1" upg="0" />
+<gun uid="#gun*185" x="32680" y="-830" model="gun_rifle" command="-1" upg="0" />
+<gun uid="#gun*184" x="32620" y="-840" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*188" x="32540" y="-850" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*197" x="32140" y="-850" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*174" x="32070" y="-850" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*145" x="31990" y="-860" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*160" x="31910" y="-860" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*202" x="33400" y="-650" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*191" x="33470" y="-650" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*166" x="33600" y="-660" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*186" x="33670" y="-660" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*199" x="33710" y="-660" model="lostmydollar_av135" command="0" upg="3" />
+<gun uid="#gun*221" x="34340" y="-830" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*207" x="34420" y="-910" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*223" x="34490" y="-990" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*205" x="34560" y="-1070" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*212" x="34630" y="-1160" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*175" x="34710" y="-1270" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*189" x="34810" y="-1270" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*192" x="34850" y="-1270" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*204" x="34940" y="-1330" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*210" x="35060" y="-1450" model="gun_oicw" command="0" upg="0" />
+<gun uid="#gun*211" x="35280" y="-1450" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*201" x="35350" y="-1460" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*208" x="35460" y="-1450" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*200" x="35560" y="-1450" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*222" x="35650" y="-1450" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*214" x="40330" y="-3350" model="darkstar_1_owo_rl" command="-1" upg="3" />
+<gun uid="#gun*215" x="40330" y="-3340" model="gun_railgun2" command="-1" upg="3" />
+<gun uid="#gun*206" x="40330" y="-3360" model="gun_bfg" command="-1" upg="3" />
+<gun uid="#gun*216" x="40330" y="-3340" model="gun_raygun" command="-1" upg="3" />
+<gun uid="#gun*203" x="40330" y="-3340" model="lostmydollar_qccv50" command="-1" upg="3" />
+<gun uid="#gun*228" x="38030" y="-1620" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*220" x="38030" y="-1630" model="gun_bfg" command="-1" upg="0" />
+<gun uid="#gun*219" x="24210" y="-1670" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*239" x="24370" y="-1910" model="gun_rifle" command="-1" upg="0" />
+<gun uid="#gun*226" x="24500" y="-1400" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*236" x="24740" y="-1340" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*217" x="24990" y="-1590" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*225" x="24760" y="-1640" model="gun_oicw" command="-1" upg="0" />
+<gun uid="#gun*249" x="35720" y="-1460" model="lostmydollar_rmk36" command="-1" upg="3" />
+<gun uid="#gun*234" x="35770" y="-1460" model="lostmydollar_rmk36" command="-1" upg="3" />
+<gun uid="#gun*235" x="35810" y="-1460" model="lostmydollar_rmk36" command="-1" upg="3" />
+<gun uid="#gun*237" x="35860" y="-1460" model="lostmydollar_rmk36" command="-1" upg="3" />
+<gun uid="#gun*213" x="29840" y="-650" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*259" x="29880" y="-650" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*242" x="29920" y="-650" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*198" x="29960" y="-650" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*251" x="30000" y="-650" model="darkstar_1_assault_rifle" command="0" upg="3" />
+<gun uid="#gun*240" x="12030" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*263" x="12090" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*268" x="12150" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*230" x="12400" y="-590" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*233" x="13030" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*261" x="13100" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*227" x="13140" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*282" x="11510" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*258" x="11560" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*231" x="11260" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*264" x="11210" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*272" x="11170" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*283" x="10780" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*245" x="10830" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*238" x="10880" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*243" x="10930" y="-600" model="moonhawk_smg" command="-1" upg="0" />
+<gun uid="#gun*271" x="6680" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*276" x="6900" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*224" x="7100" y="-380" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*244" x="7200" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*257" x="7300" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*181" x="7400" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*229" x="7510" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*265" x="7620" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*288" x="7710" y="-360" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*218" x="8400" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*248" x="7890" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*270" x="8010" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*275" x="6430" y="-370" model="gun_real_rifle" command="0" upg="2" />
+<gun uid="#gun*253" x="4790" y="-370" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*280" x="4940" y="-370" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*246" x="5020" y="-370" model="lostmydollar_qccv50" command="-1" upg="0" />
+<gun uid="#gun*252" x="33170" y="-640" model="lostmydollar_av135" command="-1" upg="3" />
+<gun uid="#gun*269" x="33230" y="-660" model="lostmydollar_av135" command="-1" upg="3" />
+<gun uid="#gun*247" x="33330" y="-650" model="lostmydollar_av135" command="-1" upg="3" />
+<gun uid="#gun*241" x="27460" y="-950" model="roxxar_pistol" command="-1" upg="3" />
+<gun uid="#gun*232" x="-2230" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*260" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*296" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*302" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*279" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*299" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*278" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*290" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*254" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*327" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*294" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*267" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*255" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*274" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*297" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*286" x="-2220" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*311" x="-2230" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*277" x="-2230" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*287" x="-2230" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*281" x="-2230" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*262" x="-2230" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*292" x="-2230" y="-710" model="item_grenade" command="-1" upg="0" />
+<gun uid="#gun*284" x="9870" y="-690" model="gun_railgun" command="-1" upg="3" />
+<gun uid="#gun*250" x="36190" y="-2850" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*301" x="36310" y="-2850" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*307" x="36400" y="-2850" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*300" x="36500" y="-2860" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*335" x="36570" y="-2860" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*291" x="36640" y="-2860" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*304" x="36720" y="-2860" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*323" x="36770" y="-2860" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*354" x="36860" y="-2860" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*273" x="37000" y="-2840" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*293" x="37150" y="-2850" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*266" x="37230" y="-2850" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*308" x="37420" y="-2850" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*317" x="37510" y="-2850" model="gun_plasmagun" command="0" upg="3" />
+<gun uid="#gun*370" x="38120" y="-3880" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*341" x="38310" y="-3880" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*306" x="38820" y="-3620" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*289" x="38900" y="-3620" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*348" x="39010" y="-3620" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*285" x="39100" y="-3620" model="gun_rayrifle" command="-1" upg="3" />
+<gun uid="#gun*312" x="-1560" y="-600" model="boom5_revolver" command="-1" upg="3" />
+<gun uid="#gun*331" x="-3520" y="40" model="lazyrain_cannon2" command="-1" upg="3" />
+<gun uid="#gun*319" x="-3510" y="120" model="phsc_aug" command="-1" upg="3" />
+<gun uid="#gun*375" x="-3520" y="180" model="lostmydollar_rmk36" command="-1" upg="3" />
+<gun uid="#gun*256" x="-3510" y="250" model="gun_vehgun" command="-1" upg="3" />
+<gun uid="#gun*316" x="-3360" y="190" model="gun_bfg" command="-1" upg="3" />
+<gun uid="#gun*313" x="-3350" y="120" model="gun_railgun2" command="-1" upg="3" />
+<gun uid="#gun*336" x="-3340" y="50" model="gun_raygun" command="-1" upg="3" />
+<gun uid="#gun*295" x="40140" y="-3350" model="lazyrain_cannon2" command="-1" upg="3" />
+<gun uid="#gun*324" x="40150" y="-3370" model="gun_vehgun" command="-1" upg="3" />
+<gun uid="#gun*379" x="40150" y="-3360" model="gun_raygun" command="-1" upg="3" />
+<lamp uid="#light*1" x="-1030" y="-300" power="0.4" flare="1" />
+<lamp uid="#light*2" x="-1610" y="-350" power="0.4" flare="1" />
+<lamp uid="#light*3" x="14970" y="-630" power="0.4" flare="1" />
+<lamp uid="#light*4" x="4630" y="-1160" power="0.4" flare="1" />
+<lamp uid="#light*5" x="5190" y="-1160" power="0.4" flare="1" />
+<lamp uid="#light*6" x="5180" y="-710" power="0.4" flare="1" />
+<lamp uid="#light*9" x="4600" y="-900" power="0.4" flare="1" />
+<lamp uid="#light*7" x="4600" y="-670" power="0.4" flare="1" />
+<lamp uid="#light*11" x="21490" y="-790" power="0.4" flare="1" />
+<lamp uid="#light*10" x="22040" y="-800" power="0.4" flare="1" />
+<lamp uid="#light*8" x="22170" y="-690" power="0.4" flare="1" />
+<lamp uid="#light*17" x="21450" y="-680" power="0.4" flare="1" />
+<lamp uid="#light*12" x="20920" y="-690" power="0.4" flare="1" />
+<lamp uid="#light*19" x="20650" y="-800" power="0.4" flare="1" />
+<lamp uid="#light*14" x="9950" y="-820" power="0.4" flare="1" />
+<lamp uid="#light*22" x="4850" y="-740" power="0.4" flare="1" />

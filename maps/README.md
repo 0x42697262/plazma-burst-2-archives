@@ -25,6 +25,10 @@
 
 - [jackass90-ghost_vs_civil](./jackass90-ghost_vs_civil.xml)
 
+### Adventure
+
+- [racines 15-escape_hard](./racines 15-escape_hard.xml)
+
 ### Zombie Infection
 
 - [noir line-infection](./noir line-infection.xml)
