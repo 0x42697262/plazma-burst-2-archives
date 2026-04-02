@@ -24,3 +24,10 @@
 
 - [jackass90-ghost_vs_civil.xml](./jackass90-ghost_vs_civil.xml)
 
+### Zombie Infection
+
+- [noir line-infection.xml](./noir line-infection.xml)
+
+## Team Deathmatch
+
+- [uzubi-redvsblue.xml](./uzubi-redvsblue.xml)
