@@ -28,6 +28,7 @@
 
 ### Adventure
 
+- [pb dman-money](./pb%20dman-money.xml)
 - [racines 15-escape_hard](./racines%2015-escape_hard.xml)
 
 ### Zombie Infection
