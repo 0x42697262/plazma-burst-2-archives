@@ -18,11 +18,12 @@
 
 ### 1 VS N Players
 
-- [krow-clock_sniper](./krow-clock_sniper.xml)
 - [excl-hydenseak](./excl-hydenseak.xml)
+- [krow-clock_sniper](./krow-clock_sniper.xml)
 
 ### Team VS 
 
+- [alj99-pull_nou](./alj99-pull_nou.xml)
 - [jackass90-ghost_vs_civil](./jackass90-ghost_vs_civil.xml)
 
 ### Adventure
