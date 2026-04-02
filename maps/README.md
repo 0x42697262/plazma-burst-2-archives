@@ -27,11 +27,11 @@
 
 ### Adventure
 
-- [racines 15-escape_hard](./racines 15-escape_hard.xml)
+- [racines 15-escape_hard](./racines%2015-escape_hard.xml)
 
 ### Zombie Infection
 
-- [noir line-infection](./noir line-infection.xml)
+- [noir line-infection](./noir%20line-infection.xml)
 
 ## Team Deathmatch
 
