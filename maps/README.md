@@ -22,8 +22,9 @@
 - [domino-prisonescape](./domino-prisonescape.xml)
 - [excl-hydenseak](./excl-hydenseak.xml)
 - [krow-clock_sniper](./krow-clock_sniper.xml)
-- [gust of dust-cs](./gust of dust-cs.xml)
+- [gust of dust-cs](./gust%20of%20dust-cs.xml)
 - [mr_jelly_f-hide-and-seek](./mr_jelly_f-hide-and-seek.xml)
+- [slendier-clock](./slendier-clock.xml)
 
 ### Team VS 
 
