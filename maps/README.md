@@ -7,6 +7,7 @@
 - [bosscat1-saw5](./bosscat1-saw5.xml)
 - [cahir-traps4](./cahir-traps4.xml)
 - [cahir-traps9](./cahir-traps9.xml)
+- [kaser-traps7](./kaser-traps7.xml)
 
 ### Selfboost
 
@@ -18,8 +19,11 @@
 
 ### 1 VS N Players
 
+- [domino-prisonescape](./domino-prisonescape.xml)
 - [excl-hydenseak](./excl-hydenseak.xml)
 - [krow-clock_sniper](./krow-clock_sniper.xml)
+- [gust of dust-cs](./gust of dust-cs.xml)
+- [mr_jelly_f-hide-and-seek](./mr_jelly_f-hide-and-seek.xml)
 
 ### Team VS 
 

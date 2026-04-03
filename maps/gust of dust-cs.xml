@@ -1,0 +1,161 @@
+<player uid="#player*1" x="1360" y="-260" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="11" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*9" x="620" y="600" tox="0" toy="0" hea="130" hmax="130" team="1" side="1" char="-1" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*10" x="580" y="600" tox="0" toy="0" hea="130" hmax="130" team="1" side="1" char="-1" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*11" x="540" y="600" tox="0" toy="0" hea="130" hmax="130" team="1" side="1" char="-1" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*12" x="500" y="600" tox="0" toy="0" hea="130" hmax="130" team="1" side="1" char="-1" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*14" x="460" y="600" tox="0" toy="0" hea="130" hmax="130" team="1" side="1" char="-1" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*13" x="420" y="600" tox="0" toy="0" hea="130" hmax="130" team="1" side="1" char="-1" incar="-1" botaction="0" ondeath="-1" />
+<pushf uid="#pushf*1" x="980" y="-570" w="200" h="540" tox="-10" toy="0" stab="100" damage="0" />
+<pushf uid="#pushf*2" x="1520" y="-570" w="200" h="540" tox="-10" toy="0" stab="100" damage="0" />
+<pushf uid="#pushf*4" x="1180" y="-670" w="340" h="200" tox="0" toy="-10" stab="100" damage="0" />
+<pushf uid="#pushf*3" x="1180" y="-130" w="340" h="200" tox="0" toy="10" stab="100" damage="0" />
+<pushf uid="#pushf*6" x="1180" y="-470" w="50" h="340" tox="5" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*7" x="1470" y="-470" w="50" h="340" tox="-5" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*8" x="1230" y="-470" w="240" h="40" tox="0" toy="10" stab="0" damage="0" />
+<pushf uid="#pushf*9" x="1230" y="-170" w="240" h="40" tox="0" toy="-10" stab="0" damage="0" />
+<pushf uid="#pushf*10" x="1180" y="70" w="170" h="930" tox="-10" toy="0" stab="100" damage="10" />
+<pushf uid="#pushf*11" x="1350" y="70" w="170" h="930" tox="10" toy="0" stab="100" damage="10" />
+<pushf uid="#pushf*5" x="3980" y="-570" w="200" h="540" tox="-10" toy="0" stab="100" damage="0" />
+<pushf uid="#pushf*14" x="4520" y="-570" w="200" h="540" tox="-10" toy="0" stab="100" damage="0" />
+<pushf uid="#pushf*12" x="4180" y="-670" w="340" h="200" tox="0" toy="-10" stab="100" damage="0" />
+<pushf uid="#pushf*16" x="4180" y="-130" w="340" h="200" tox="0" toy="10" stab="100" damage="0" />
+<pushf uid="#pushf*15" x="4180" y="-470" w="50" h="340" tox="5" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*19" x="4470" y="-470" w="50" h="340" tox="-5" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*18" x="4230" y="-470" w="240" h="40" tox="0" toy="10" stab="0" damage="0" />
+<pushf uid="#pushf*13" x="4230" y="-170" w="240" h="40" tox="0" toy="-10" stab="0" damage="0" />
+<pushf uid="#pushf*17" x="4180" y="70" w="170" h="930" tox="-10" toy="0" stab="100" damage="10" />
+<pushf uid="#pushf*20" x="4350" y="70" w="170" h="930" tox="10" toy="0" stab="100" damage="10" />
+<bg x="-30" y="-1230" w="6660" h="2260" m="0" />
+<water x="1220" y="-430" w="260" h="260" damage="0" />
+<water x="1240" y="-450" w="220" h="20" damage="0" />
+<water x="1240" y="-170" w="220" h="20" damage="0" />
+<water x="1200" y="-410" w="20" h="220" damage="0" />
+<water x="1480" y="-410" w="20" h="220" damage="0" />
+<water x="600" y="740" w="1610" h="260" damage="1" />
+<water x="4220" y="-430" w="260" h="260" damage="0" />
+<water x="4240" y="-450" w="220" h="20" damage="0" />
+<water x="4240" y="-170" w="220" h="20" damage="0" />
+<water x="4200" y="-410" w="20" h="220" damage="0" />
+<water x="4480" y="-410" w="20" h="220" damage="0" />
+<water x="3500" y="740" w="1610" h="260" damage="1" />
+<box x="-2700" y="-1230" w="2700" h="1860" m="0" />
+<box x="-2700" y="600" w="3300" h="1200" m="0" />
+<box x="300" y="400" w="380" h="50" m="0" />
+<box x="650" y="400" w="50" h="230" m="0" />
+<box x="-30" y="400" w="180" h="230" m="0" />
+<box x="490" y="250" w="180" h="50" m="0" />
+<box x="570" y="1000" w="1650" h="800" m="0" />
+<box x="620" y="170" w="50" h="110" m="0" />
+<box x="160" y="150" w="180" h="50" m="0" />
+<box x="-30" y="70" w="110" h="50" m="0" />
+<box x="450" y="-110" w="50" h="110" m="0" />
+<box x="300" y="-50" w="180" h="50" m="0" />
+<box x="-2700" y="-2400" w="11100" h="1200" m="0" />
+<box x="2700" y="-1230" w="300" h="1630" m="0" />
+<box x="2210" y="600" w="1290" h="1200" m="0" />
+<box x="570" y="600" w="130" h="50" m="0" />
+<box x="3470" y="1000" w="1650" h="800" m="0" />
+<box x="5100" y="600" w="3300" h="1200" m="0" />
+<box x="3200" y="400" w="380" h="50" m="0" />
+<box x="3550" y="400" w="50" h="230" m="0" />
+<box x="3470" y="600" w="130" h="50" m="0" />
+<box x="-30" y="-150" w="180" h="50" m="0" />
+<box x="-100" y="-330" w="180" h="50" m="0" />
+<box x="200" y="-500" w="180" h="50" m="0" />
+<box x="330" y="-580" w="50" h="110" m="0" />
+<box x="400" y="-700" w="180" h="50" m="0" />
+<box x="-30" y="-830" w="230" h="50" m="0" />
+<box x="330" y="-1030" w="180" h="50" m="0" />
+<box x="600" y="-950" w="180" h="50" m="0" />
+<box x="900" y="-900" w="180" h="30" m="0" />
+<box x="1160" y="-810" w="180" h="30" m="0" />
+<box x="1420" y="-900" w="180" h="30" m="0" />
+<box x="2100" y="-940" w="180" h="50" m="0" />
+<box x="1750" y="-820" w="180" h="30" m="0" />
+<box x="2340" y="-710" w="180" h="50" m="0" />
+<box x="2340" y="-790" w="50" h="110" m="0" />
+<box x="2970" y="-610" w="310" h="50" m="0" />
+<box x="2550" y="-480" w="180" h="50" m="0" />
+<box x="2200" y="-350" w="180" h="50" m="0" />
+<box x="2250" y="-100" w="180" h="50" m="0" />
+<box x="2420" y="30" w="110" h="50" m="0" />
+<box x="2420" y="50" w="50" h="70" m="0" />
+<box x="2420" y="230" w="310" h="50" m="0" />
+<box x="2200" y="390" w="110" h="50" m="0" />
+<box x="5700" y="-1230" w="2700" h="1530" m="0" />
+<box x="3420" y="250" w="180" h="50" m="0" />
+<box x="2970" y="130" w="180" h="50" m="0" />
+<box x="3420" y="-50" w="180" h="50" m="0" />
+<box x="3000" y="-200" w="180" h="50" m="0" />
+<box x="3550" y="-150" w="50" h="130" m="0" />
+<box x="3420" y="-430" w="180" h="50" m="0" />
+<box x="3550" y="-530" w="50" h="130" m="0" />
+<box x="2970" y="-810" w="180" h="50" m="0" />
+<box x="3300" y="-900" w="500" h="30" m="0" />
+<box x="3900" y="-1000" w="300" h="30" m="0" />
+<box x="4330" y="-900" w="130" h="30" m="0" />
+<box x="4530" y="-950" w="130" h="30" m="0" />
+<box x="4740" y="-850" w="130" h="30" m="0" />
+<box x="5030" y="-980" w="130" h="30" m="0" />
+<box x="5230" y="-750" w="180" h="50" m="0" />
+<box x="6600" y="270" w="1800" h="360" m="0" />
+<box x="5700" y="270" w="400" h="210" m="0" />
+<box x="8370" y="-2400" w="930" h="4200" m="0" />
+<box x="5230" y="-850" w="50" h="130" m="0" />
+<box x="5550" y="-570" w="180" h="50" m="0" />
+<box x="5220" y="-420" w="180" h="50" m="0" />
+<box x="5180" y="-630" w="50" h="130" m="0" />
+<box x="5320" y="-300" w="50" h="130" m="0" />
+<box x="5550" y="-250" w="180" h="50" m="0" />
+<box x="5320" y="-30" w="180" h="50" m="0" />
+<box x="5550" y="120" w="180" h="50" m="0" />
+<box x="5320" y="-10" w="50" h="320" m="0" />
+<box x="5320" y="280" w="180" h="50" m="0" />
+<box x="5550" y="430" w="180" h="50" m="0" />
+<box x="6300" y="570" w="100" h="60" m="0" />
+<gun uid="#gun*1" x="1350" y="-300" model="gun_sniper" command="-1" upg="0" />
+<gun uid="#gun*2" x="6350" y="560" model="gun_rl" command="-1" upg="0" />
+<gun uid="#gun*3" x="6350" y="560" model="gun_rl" command="-1" upg="0" />
+<gun uid="#gun*4" x="6350" y="560" model="gun_rl" command="-1" upg="0" />
+<gun uid="#gun*5" x="6350" y="560" model="gun_rl" command="-1" upg="0" />
+<gun uid="#gun*7" x="6350" y="560" model="gun_rl" command="-1" upg="0" />
+<gun uid="#gun*6" x="6350" y="560" model="gun_rl" command="-1" upg="0" />
+<gun uid="#gun*10" x="420" y="560" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*11" x="460" y="560" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*12" x="500" y="560" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*14" x="540" y="560" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*13" x="580" y="560" model="gun_defibrillator" command="-1" upg="0" />
+<gun uid="#gun*16" x="620" y="560" model="gun_defibrillator" command="-1" upg="0" />
+<lamp uid="#light*1" x="6350" y="560" power="0.4" flare="1" />
+<lamp uid="#light*2" x="5380" y="30" power="0.4" flare="1" />
+<lamp uid="#light*4" x="5690" y="-510" power="0.4" flare="1" />
+<lamp uid="#light*3" x="5690" y="-1190" power="0.4" flare="1" />
+<lamp uid="#light*5" x="3010" y="-1190" power="0.4" flare="1" />
+<lamp uid="#light*7" x="3540" y="-440" power="0.4" flare="1" />
+<lamp uid="#light*9" x="3010" y="-140" power="0.4" flare="1" />
+<lamp uid="#light*11" x="3540" y="460" power="0.4" flare="1" />
+<lamp uid="#light*14" x="4100" y="730" power="0.4" flare="1" />
+<lamp uid="#light*13" x="2690" y="-1190" power="0.4" flare="1" />
+<lamp uid="#light*6" x="10" y="-1190" power="0.4" flare="1" />
+<lamp uid="#light*10" x="320" y="-510" power="0.4" flare="1" />
+<lamp uid="#light*15" x="4600" y="730" power="0.4" flare="1" />
+<lamp uid="#light*16" x="4710" y="-40" power="0.4" flare="1" />
+<lamp uid="#light*18" x="3990" y="-40" power="0.4" flare="1" />
+<lamp uid="#light*19" x="2480" y="90" power="0.4" flare="1" />
+<lamp uid="#light*21" x="2850" y="500" power="0.4" flare="1" />
+<lamp uid="#light*24" x="2690" y="290" power="0.4" flare="1" />
+<lamp uid="#light*27" x="1600" y="730" power="0.4" flare="1" />
+<lamp uid="#light*20" x="1100" y="730" power="0.4" flare="1" />
+<lamp uid="#light*22" x="990" y="-40" power="0.4" flare="1" />
+<lamp uid="#light*17" x="1710" y="-40" power="0.4" flare="1" />
+<lamp uid="#light*23" x="10" y="-90" power="0.4" flare="1" />
+<lamp uid="#light*26" x="640" y="460" power="0.4" flare="1" />
+<lamp uid="#light*34" x="3990" y="-560" power="0.4" flare="1" />
+<lamp uid="#light*33" x="4710" y="-560" power="0.4" flare="1" />
+<lamp uid="#light*8" x="990" y="-560" power="0.4" flare="1" />
+<lamp uid="#light*12" x="1710" y="-560" power="0.4" flare="1" />
+<region uid="#region*1" x="2800" y="400" w="100" h="200" use_target="#trigger*3" use_on="4" />
+<region uid="#region*2" x="4330" y="-310" w="30" h="30" use_target="-1" use_on="0" />
+<trigger uid="#trigger*1" x="1350" y="-100" enabled="true" maxcalls="1" actions_1_type="51" actions_1_targetA="40" actions_1_targetB="0" actions_2_type="-1" actions_2_targetA="0" actions_2_targetB="0" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<trigger uid="#trigger*3" x="2850" y="500" enabled="true" maxcalls="1" actions_1_type="14" actions_1_targetA="#player*1" actions_1_targetB="#region*2" actions_2_type="-1" actions_2_targetA="0" actions_2_targetB="0" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<timer uid="#timer*1" x="1350" y="-140" enabled="true" maxcalls="1" target="#trigger*1" delay="0" />

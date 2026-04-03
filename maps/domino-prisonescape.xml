@@ -1,0 +1,511 @@
+<player uid="#player*1" x="-5523" y="-1078" tox="0" toy="0" hea="10000" hmax="10000" team="0" side="-1" char="17" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*10" x="-6753" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="1" />
+<player __id="8" uid="#player*8" x="-5630" y="-1080" tox="0" toy="0" hea="10000" hmax="10000" team="0" side="-1" char="17" incar="-1" botaction="0" ondeath="-1" />
+<player uid="#player*2" x="-6793" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="2" />
+<player uid="#player*3" x="-6833" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="3" />
+<player uid="#player*4" x="-6873" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="4" />
+<player uid="#player*5" x="-6913" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="5" />
+<player uid="#player*6" x="-6953" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="6" />
+<player uid="#player*7" x="-6993" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="7" />
+<player uid="#player*9" x="-7073" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="9" />
+<player uid="#player*11" x="-7113" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="10" />
+<player uid="#player*12" x="-7153" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="11" />
+<player uid="#player*13" x="-7193" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="12" />
+<player uid="#player*14" x="-7233" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="13" />
+<player uid="#player*15" x="-7273" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="14" />
+<player uid="#player*16" x="-7313" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="15" />
+<player uid="#player*17" x="-7353" y="-578" tox="0" toy="0" hea="230" hmax="230" team="1" side="1" char="146" incar="-1" botaction="0" ondeath="-1" __id="16" />
+<pushf uid="#pushf*26" x="-5773" y="-1298" w="20" h="230" tox="4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*27" x="-5293" y="-1298" w="20" h="230" tox="-4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*28" x="-3113" y="-1578" w="20" h="230" tox="4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*29" x="-2633" y="-1578" w="20" h="230" tox="-4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*30" x="-113" y="-2038" w="20" h="230" tox="4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*31" x="367" y="-2038" w="20" h="230" tox="-4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*32" x="-313" y="-1818" w="200" h="10" tox="0" toy="0" stab="100" damage="0" />
+<pushf uid="#pushf*33" x="3257" y="-1698" w="20" h="230" tox="4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*34" x="3737" y="-1698" w="20" h="230" tox="-4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*35" x="3057" y="-1478" w="200" h="40" tox="0" toy="0" stab="100" damage="-1000" />
+<pushf uid="#pushf*36" x="2507" y="-1618" w="30" h="300" tox="0" toy="0" stab="0" damage="-1000" />
+<pushf uid="#pushf*37" x="7327" y="-1598" w="20" h="230" tox="4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*38" x="7807" y="-1598" w="20" h="230" tox="-4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*39" x="6207" y="-1708" w="20" h="230" tox="-4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*40" x="5727" y="-1708" w="20" h="240" tox="4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*41" x="5887" y="-718" w="90" h="280" tox="0" toy="-0.35" stab="0" damage="0" />
+<pushf uid="#pushf*42" x="10417" y="-1498" w="20" h="230" tox="4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*43" x="10897" y="-1498" w="20" h="230" tox="-4" toy="0" stab="0" damage="0" />
+<pushf uid="#pushf*44" x="10217" y="-1278" w="200" h="20" tox="0" toy="0" stab="100" damage="-1000" />
+<pushf uid="#pushf*45" x="5527" y="-1488" w="200" h="40" tox="0" toy="0" stab="100" damage="-1000" />
+<pushf uid="#pushf*46" x="7127" y="-1378" w="200" h="40" tox="0" toy="0" stab="100" damage="-1000" />
+<pushf uid="#pushf*48" x="-6693" y="-3278" w="20740" h="1240" tox="0" toy="1" stab="0" damage="0" />
+<pushf uid="#pushf*49" x="10427" y="-2378" w="1050" h="610" tox="0" toy="1" stab="0" damage="0" />
+<pushf uid="#pushf*50" x="-9573" y="-3368" w="24310" h="3070" tox="0" toy="0" stab="0" damage="0" />
+<image id="1756" width="236" height="236" />
+<image id="1232" width="120" height="120" />
+<image id="10329" width="120" height="120" />
+<image id="5459" width="30" height="110" />
+<image id="3373" width="30" height="25" />
+<image id="36851" width="396" height="96" />
+<image id="23985" width="200" height="200" />
+<image id="12732" width="120" height="40" />
+<bg x="undefined" y="undefined" w="270" h="250" m="c1756" />
+<bg x="-6573" y="-998" w="40" h="440" m="4" />
+<bg x="-9383" y="-988" w="2810" h="700" m="0" />
+<bg x="-5293" y="-1058" w="10" h="590" m="c1232" />
+<bg x="-5753" y="-1288" w="10" h="230" m="c10329" />
+<bg x="-5743" y="-1288" w="20" h="230" m="c5459" />
+<bg x="-5773" y="-1288" w="20" h="230" m="c5459" />
+<bg x="-5733" y="-1338" w="420" h="280" m="10" />
+<bg x="-5283" y="-1058" w="20" h="590" m="c5459" />
+<bg x="-5313" y="-1058" w="20" h="590" m="c5459" />
+<bg x="-5753" y="-1058" w="10" h="590" m="c1232" />
+<bg x="-5743" y="-1058" w="20" h="590" m="c5459" />
+<bg x="-5773" y="-1058" w="20" h="590" m="c5459" />
+<bg x="-5293" y="-1288" w="10" h="230" m="c10329" />
+<bg x="-5283" y="-1288" w="20" h="230" m="c5459" />
+<bg x="-5313" y="-1288" w="20" h="230" m="c5459" />
+<bg x="-4693" y="-448" w="720" h="340" m="1" />
+<bg x="-2643" y="-1338" w="10" h="590" m="c1232" />
+<bg x="-3103" y="-1568" w="10" h="230" m="c10329" />
+<bg x="-3093" y="-1568" w="20" h="230" m="c5459" />
+<bg x="-3113" y="-1568" w="20" h="230" m="c5459" />
+<bg x="-3073" y="-1628" w="420" h="280" m="10" />
+<bg x="-2663" y="-1328" w="20" h="590" m="c5459" />
+<bg x="-2643" y="-1578" w="10" h="230" m="c10329" />
+<bg x="-2633" y="-1578" w="20" h="230" m="c5459" />
+<bg x="-2653" y="-1578" w="20" h="230" m="c5459" />
+<bg x="-2633" y="-1318" w="20" h="590" m="c5459" />
+<bg x="-3093" y="-1328" w="10" h="590" m="c1232" />
+<bg x="-3083" y="-1338" w="20" h="590" m="c5459" />
+<bg x="-3113" y="-1348" w="20" h="590" m="c5459" />
+<bg x="357" y="-1798" w="10" h="590" m="c1232" />
+<bg x="-103" y="-2028" w="10" h="230" m="c10329" />
+<bg x="-93" y="-2028" w="20" h="230" m="c5459" />
+<bg x="-113" y="-2028" w="20" h="230" m="c5459" />
+<bg x="-73" y="-2088" w="420" h="280" m="10" />
+<bg x="337" y="-1788" w="20" h="590" m="c5459" />
+<bg x="357" y="-2038" w="10" h="230" m="c10329" />
+<bg x="367" y="-2038" w="20" h="230" m="c5459" />
+<bg x="347" y="-2038" w="20" h="230" m="c5459" />
+<bg x="367" y="-1778" w="20" h="590" m="c5459" />
+<bg x="-93" y="-1788" w="10" h="590" m="c1232" />
+<bg x="-83" y="-1798" w="20" h="590" m="c5459" />
+<bg x="-113" y="-1808" w="20" h="590" m="c5459" />
+<bg x="-913" y="-1578" w="30" h="210" m="4" />
+<bg x="387" y="-1378" w="1340" h="300" m="1" />
+<bg x="-2203" y="-898" w="400" h="110" m="1" />
+<bg x="3727" y="-1458" w="10" h="590" m="c1232" />
+<bg x="3267" y="-1688" w="10" h="230" m="c10329" />
+<bg x="3277" y="-1688" w="20" h="230" m="c5459" />
+<bg x="3257" y="-1688" w="20" h="230" m="c5459" />
+<bg x="3297" y="-1748" w="420" h="280" m="10" />
+<bg x="3707" y="-1448" w="20" h="590" m="c5459" />
+<bg x="3727" y="-1698" w="10" h="230" m="c10329" />
+<bg x="3737" y="-1698" w="20" h="230" m="c5459" />
+<bg x="3717" y="-1698" w="20" h="230" m="c5459" />
+<bg x="3737" y="-1438" w="20" h="590" m="c5459" />
+<bg x="3277" y="-1448" w="10" h="590" m="c1232" />
+<bg x="3287" y="-1458" w="20" h="590" m="c5459" />
+<bg x="3257" y="-1468" w="20" h="590" m="c5459" />
+<bg x="2337" y="-918" w="10" h="60" m="4" />
+<bg x="2517" y="-878" w="430" h="250" m="1" />
+<bg x="-773" y="-1578" w="40" h="210" m="4" />
+<bg x="-913" y="-1568" w="180" h="70" m="c5459" />
+<bg x="-883" y="-1508" w="110" h="140" m="c5459" />
+<bg x="-963" y="-1418" w="10" h="60" m="4" />
+<bg x="7797" y="-1358" w="10" h="590" m="c1232" />
+<bg x="7337" y="-1588" w="10" h="230" m="c10329" />
+<bg x="7347" y="-1588" w="20" h="230" m="c5459" />
+<bg x="7327" y="-1588" w="20" h="230" m="c5459" />
+<bg x="7367" y="-1648" w="420" h="280" m="10" />
+<bg x="7777" y="-1348" w="20" h="590" m="c5459" />
+<bg x="7797" y="-1598" w="10" h="230" m="c10329" />
+<bg x="7807" y="-1598" w="20" h="230" m="c5459" />
+<bg x="7787" y="-1598" w="20" h="230" m="c5459" />
+<bg x="7807" y="-1338" w="20" h="590" m="c5459" />
+<bg x="7347" y="-1348" w="10" h="590" m="c1232" />
+<bg x="7357" y="-1358" w="20" h="590" m="c5459" />
+<bg x="7327" y="-1368" w="20" h="590" m="c5459" />
+<bg x="5747" y="-1698" w="20" h="230" m="c5459" />
+<bg x="5767" y="-1758" w="420" h="280" m="10" />
+<bg x="6197" y="-1708" w="10" h="230" m="c10329" />
+<bg x="6207" y="-1708" w="20" h="230" m="c5459" />
+<bg x="6187" y="-1708" w="20" h="230" m="c5459" />
+<bg x="5297" y="-1248" w="30" h="380" m="4" />
+<bg x="5027" y="-1248" w="30" h="380" m="4" />
+<bg x="5037" y="-1248" w="10" h="400" m="c5459" />
+<bg x="5307" y="-1258" w="10" h="400" m="c5459" />
+<bg x="5307" y="-818" w="1050" h="500" m="10" />
+<bg x="6007" y="-708" w="1070" h="540" m="10" />
+<bg x="5137" y="-378" w="740" h="60" m="c5459" />
+<bg x="6357" y="-808" w="20" h="100" m="c5459" />
+<bg x="6367" y="-728" w="270" h="20" m="c5459" />
+<bg x="5317" y="-878" w="430" h="20" m="c5459" />
+<bg x="5317" y="-838" w="430" h="20" m="c5459" />
+<bg x="5837" y="-1058" w="30" h="200" m="c5459" />
+<bg x="6087" y="-1058" w="30" h="200" m="0" />
+<bg x="6087" y="-1058" w="30" h="200" m="c5459" />
+<bg x="5967" y="-1058" w="20" h="70" m="c5459" />
+<bg x="5517" y="-918" w="20" h="60" m="c5459" a="#door*63" />
+<bg x="5837" y="-1358" w="280" h="320" m="10" />
+<bg x="5867" y="-1038" w="220" h="640" m="10" />
+<bg x="5317" y="-858" w="430" h="20" m="c1756" />
+<bg x="10887" y="-1258" w="10" h="960" m="c1232" />
+<bg x="10427" y="-1488" w="10" h="230" m="c10329" />
+<bg x="10437" y="-1488" w="20" h="230" m="c5459" />
+<bg x="10417" y="-1488" w="20" h="230" m="c5459" />
+<bg x="10457" y="-1548" w="420" h="280" m="10" />
+<bg x="10867" y="-1248" w="20" h="950" m="c5459" />
+<bg x="10887" y="-1498" w="10" h="230" m="c10329" />
+<bg x="10897" y="-1498" w="20" h="230" m="c5459" />
+<bg x="10877" y="-1498" w="20" h="230" m="c5459" />
+<bg x="10897" y="-1238" w="20" h="940" m="c5459" />
+<bg x="10437" y="-1248" w="10" h="950" m="c1232" />
+<bg x="10447" y="-1258" w="20" h="960" m="c5459" />
+<bg x="10417" y="-1268" w="20" h="970" m="c5459" />
+<bg x="8937" y="-778" w="3020" h="600" m="1" />
+<bg x="8627" y="-1018" w="10" h="240" m="4" />
+<bg x="8647" y="-1018" w="10" h="240" m="4" />
+<bg x="8637" y="-1018" w="10" h="240" m="c5459" />
+<bg x="8627" y="-1478" w="360" h="30" m="c5459" />
+<bg x="8627" y="-1448" w="360" h="440" m="10" />
+<bg x="8657" y="-1038" w="360" h="320" m="10" />
+<bg x="-6653" y="-618" w="10" h="60" m="c5459" />
+<bg x="-6513" y="-998" w="40" h="440" m="4" />
+<bg x="-6533" y="-998" w="20" h="440" m="c5459" />
+<water uid="#water*6" x="-4493" y="-448" w="500" h="270" damage="0.5" attach="-1" />
+<water uid="#water*7" x="-2173" y="-898" w="370" h="110" damage="0.5" attach="-1" />
+<water uid="#water*8" x="387" y="-1378" w="1340" h="370" damage="0.5" attach="-1" />
+<water uid="#water*9" x="2537" y="-878" w="350" h="170" damage="0" attach="-1" />
+<water uid="#water*10" x="9127" y="-778" w="2500" h="200" damage="0" attach="-1" />
+<box x="-8083" y="-578" w="1610" h="600" m="0" />
+<box x="-8073" y="-1178" w="500" h="500" m="0" />
+<box x="-7873" y="-3278" w="1400" h="2300" m="0" />
+<box x="-5772" y="-1078" w="509" h="40" m="4" />
+<box x="-5773" y="-3278" w="510" h="1940" m="4" />
+<box x="-5773" y="-1378" w="50" h="100" m="4" />
+<box x="-5313" y="-1378" w="50" h="100" m="4" />
+<box x="-6683" y="-488" w="1510" h="510" m="1" />
+<box x="-5273" y="-448" w="700" h="470" m="6" />
+<box x="-7873" y="-178" w="4800" h="1100" m="6" />
+<box x="-3993" y="-508" w="600" h="1420" m="6" />
+<box x="-5943" y="-608" w="250" h="310" m="2" />
+<box x="-5523" y="-548" w="250" h="310" m="2" />
+<box x="-4683" y="-618" w="110" h="240" m="6" />
+<box x="-3793" y="-698" w="400" h="240" m="6" />
+<box x="-3813" y="-678" w="110" h="240" m="6" />
+<box x="-3833" y="-658" w="110" h="240" m="6" />
+<box x="-3853" y="-638" w="110" h="240" m="6" />
+<box x="-3873" y="-618" w="110" h="240" m="6" />
+<box x="-3893" y="-598" w="110" h="240" m="6" />
+<box x="-3433" y="-678" w="280" h="1580" m="6" />
+<box x="-3253" y="-818" w="1080" h="1740" m="6" />
+<box x="-3693" y="-1028" w="130" h="440" m="0" />
+<box x="-3733" y="-1028" w="170" h="50" m="0" />
+<box x="-3743" y="-848" w="170" h="50" m="0" />
+<box x="-3113" y="-1358" w="500" h="40" m="4" />
+<box x="-3113" y="-3278" w="500" h="1660" m="4" />
+<box x="-3113" y="-1658" w="40" h="100" m="4" />
+<box x="-2653" y="-1658" w="40" h="100" m="4" />
+<box x="-9573" y="-578" w="2070" h="1500" m="0" />
+<box x="-9573" y="-1178" w="540" h="500" m="0" />
+<box x="-9573" y="-3278" w="2020" h="2300" m="0" />
+<box x="-4673" y="-448" w="180" h="380" m="6" />
+<box x="-2573" y="-898" w="400" h="230" m="6" />
+<box x="-2323" y="-788" w="660" h="1710" m="6" />
+<box x="-1773" y="-1178" w="800" h="2100" m="6" />
+<box x="-1803" y="-958" w="240" h="180" m="6" />
+<box x="-1383" y="-1378" w="1770" h="2300" m="6" />
+<box x="-1203" y="-1688" w="40" h="360" m="0" />
+<box x="-913" y="-3278" w="180" h="1740" m="0" />
+<box x="-913" y="-3308" w="40" h="770" m="0" />
+<box x="-773" y="-3308" w="40" h="770" m="0" />
+<box x="-113" y="-1818" w="500" h="40" m="4" />
+<box x="-113" y="-3278" w="500" h="1200" m="4" />
+<box x="-113" y="-2118" w="40" h="100" m="4" />
+<box x="347" y="-2118" w="40" h="100" m="4" />
+<box x="287" y="-1088" w="1530" h="2010" m="6" />
+<box x="-1223" y="-1478" w="50" h="30" m="0" />
+<box x="-1223" y="-1608" w="50" h="30" m="0" />
+<box x="-1183" y="-1548" w="50" h="30" m="0" />
+<box x="-1193" y="-1688" w="50" h="30" m="0" />
+<box x="-773" y="-1858" w="40" h="360" m="0" />
+<box x="-913" y="-1858" w="40" h="360" m="0" />
+<box x="1727" y="-1378" w="200" h="2030" m="6" />
+<box x="1737" y="-1168" w="410" h="2090" m="6" />
+<box x="2127" y="-878" w="410" h="1800" m="6" />
+<box x="2497" y="-1328" w="40" h="460" m="0" />
+<box x="2507" y="-1018" w="50" h="30" m="0" />
+<box x="2507" y="-1148" w="50" h="30" m="0" />
+<box x="2467" y="-1088" w="50" h="30" m="0" />
+<box x="2477" y="-1228" w="50" h="30" m="0" />
+<box x="3257" y="-1478" w="500" h="40" m="4" />
+<box x="3257" y="-3278" w="500" h="1540" m="4" />
+<box x="3257" y="-1778" w="40" h="100" m="4" />
+<box x="3717" y="-1778" w="40" h="100" m="4" />
+<box x="2887" y="-878" w="2440" h="1800" m="6" />
+<box x="2507" y="-708" w="410" h="1630" m="6" />
+<box x="1467" y="-1118" w="370" h="30" m="2" />
+<box x="1627" y="-1138" w="200" h="40" m="2" />
+<box x="1687" y="-1168" w="80" h="80" m="2" />
+<box x="1807" y="-1118" w="110" h="40" m="2" />
+<box x="1467" y="-1088" w="450" h="20" m="3" />
+<box x="1057" y="-1118" w="370" h="30" m="2" />
+<box x="1217" y="-1138" w="200" h="40" m="2" />
+<box x="1277" y="-1168" w="80" h="80" m="2" />
+<box x="1397" y="-1118" w="110" h="40" m="2" />
+<box x="1057" y="-1088" w="450" h="20" m="3" />
+<box x="847" y="-1168" w="370" h="30" m="2" />
+<box x="1007" y="-1188" w="200" h="40" m="2" />
+<box x="1067" y="-1218" w="80" h="80" m="2" />
+<box x="1187" y="-1168" w="110" h="40" m="2" />
+<box x="847" y="-1138" w="450" h="100" m="3" />
+<box x="357" y="-1098" w="500" h="30" m="2" />
+<box x="647" y="-1118" w="200" h="40" m="2" />
+<box x="707" y="-1148" w="80" h="80" m="2" />
+<box x="827" y="-1098" w="110" h="40" m="2" />
+<box x="487" y="-1068" w="450" h="20" m="3" />
+<box x="2487" y="-1338" w="50" h="30" m="0" />
+<box x="5727" y="-878" w="160" h="210" m="7" />
+<box x="5727" y="-378" w="200" h="200" m="7" />
+<box x="5827" y="-328" w="440" h="150" m="7" />
+<box x="4967" y="-288" w="3060" h="1210" m="7" />
+<box x="5827" y="-1278" w="50" h="180" m="7" />
+<box x="6077" y="-1278" w="50" h="180" m="7" />
+<box x="5827" y="-1478" w="300" h="360" m="7" />
+<box x="6067" y="-878" w="160" h="210" m="7" />
+<box x="5977" y="-718" w="230" h="50" m="7" />
+<box x="5727" y="-878" w="200" h="50" m="7" />
+<box x="6027" y="-878" w="200" h="50" m="7" />
+<box x="7327" y="-1378" w="500" h="40" m="4" />
+<box x="7327" y="-3278" w="500" h="1640" m="4" />
+<box x="7327" y="-1678" w="40" h="100" m="4" />
+<box x="7787" y="-1678" w="40" h="100" m="4" />
+<box x="5927" y="-1018" w="100" h="40" m="4" />
+<box x="5837" y="-1138" w="30" h="100" m="7" />
+<box x="6087" y="-1138" w="30" h="100" m="7" />
+<box x="5827" y="-438" w="200" h="190" m="7" />
+<box x="6227" y="-328" w="450" h="250" m="7" />
+<box x="6327" y="-728" w="1700" h="750" m="1" />
+<box x="5727" y="-1488" w="500" h="40" m="4" />
+<box x="5727" y="-3278" w="500" h="1530" m="4" />
+<box x="5727" y="-1788" w="40" h="100" m="4" />
+<box x="6187" y="-1788" w="40" h="100" m="4" />
+<box x="7227" y="-788" w="1900" h="1710" m="1" />
+<box x="6207" y="-878" w="170" h="60" m="7" />
+<box x="6177" y="-858" w="170" h="70" m="7" />
+<box x="6157" y="-818" w="160" h="60" m="7" />
+<box x="6307" y="-838" w="70" h="560" m="7" />
+<box x="6337" y="-858" w="40" h="60" m="7" />
+<box x="6207" y="-798" w="40" h="60" m="7" />
+<box x="4127" y="-918" w="530" h="180" m="1" />
+<box x="4327" y="-1138" w="380" h="440" m="1" />
+<box x="4447" y="-1058" w="440" h="360" m="1" />
+<box x="4707" y="-948" w="340" h="250" m="1" />
+<box x="5027" y="-1278" w="300" h="50" m="7" />
+<box x="6067" y="-748" w="60" h="120" m="7" />
+<box x="5727" y="-758" w="100" h="130" m="7" />
+<box x="4967" y="-318" w="830" h="200" m="7" />
+<box x="8927" y="-1478" w="200" h="710" m="0" />
+<box x="8897" y="-908" w="80" h="30" m="0" />
+<box x="8897" y="-1038" w="80" h="30" m="0" />
+<box x="8897" y="-1178" w="80" h="30" m="0" />
+<box x="8897" y="-1308" w="80" h="30" m="0" />
+<box x="8907" y="-1478" w="80" h="30" m="0" />
+<box x="8927" y="-578" w="3300" h="1500" m="2" />
+<box x="10417" y="-1278" w="500" h="40" m="4" />
+<box x="10417" y="-1578" w="500" h="40" m="4" />
+<box x="10417" y="-1578" w="40" h="100" m="4" />
+<box x="10877" y="-1578" w="40" h="100" m="4" />
+<box x="11627" y="-778" w="800" h="1700" m="5" />
+<box x="7927" y="-828" w="480" h="190" m="1" />
+<box x="8077" y="-858" w="380" h="180" m="1" />
+<box x="8397" y="-808" w="570" h="250" m="1" />
+<box x="7547" y="-808" w="480" h="190" m="1" />
+<box x="8627" y="-1478" w="30" h="470" m="0" />
+<box x="8627" y="-1308" w="60" h="30" m="0" />
+<box x="8627" y="-1038" w="60" h="30" m="0" />
+<box x="8627" y="-1478" w="60" h="30" m="0" />
+<box x="12127" y="-1578" w="300" h="1000" m="0" />
+<box x="12327" y="-778" w="2410" h="1700" m="12" />
+<box x="12087" y="-978" w="140" h="30" m="0" />
+<box x="12087" y="-1178" w="140" h="30" m="0" />
+<box x="12087" y="-1378" w="140" h="30" m="0" />
+<box x="12087" y="-1578" w="140" h="30" m="0" />
+<box x="6317" y="-818" w="250" h="140" m="1" />
+<box x="6517" y="-778" w="250" h="140" m="1" />
+<box x="6547" y="-758" w="700" h="140" m="1" />
+<door uid="#door*35" x="-6573" y="-978" w="100" h="400" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*36" x="-5213" y="-498" w="110" h="90" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*37" x="-5203" y="-508" w="100" h="30" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*38" x="-5193" y="-518" w="60" h="60" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*39" x="-5183" y="-528" w="30" h="90" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*40" x="-3463" y="-718" w="110" h="90" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*41" x="-3453" y="-728" w="100" h="30" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*42" x="-3443" y="-738" w="60" h="60" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*43" x="-3433" y="-748" w="30" h="90" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*44" x="-7613" y="-698" w="40" h="50" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*45" x="-7603" y="-628" w="10" h="70" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*46" x="-7603" y="-608" w="20" h="50" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*47" x="-7583" y="-628" w="10" h="70" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*48" x="-7623" y="-598" w="30" h="50" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*49" x="-7633" y="-608" w="10" h="60" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*50" x="-7643" y="-638" w="10" h="70" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*51" x="-7643" y="-718" w="40" h="50" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*52" x="-7633" y="-718" w="10" h="70" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*53" x="-7593" y="-708" w="10" h="70" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*54" x="-9573" y="-3278" w="2000" h="2730" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*55" x="-873" y="-1548" w="100" h="170" moving="false" tarx="0" tary="0" maxspeed="1" vis="true" attach="-1" mute="false" />
+<door uid="#door*56" x="-453" y="-1458" w="70" h="110" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*57" x="-433" y="-1428" w="70" h="110" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*58" x="-483" y="-1428" w="70" h="110" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*59" x="-463" y="-1448" w="70" h="110" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*60" x="-9573" y="-1138" w="2000" h="850" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*61" x="3257" y="-1438" w="50" h="560" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*62" x="3707" y="-1438" w="50" h="560" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*63" x="5327" y="-878" w="400" h="60" moving="false" tarx="0" tary="0" maxspeed="2" vis="true" attach="-1" mute="false" />
+<door uid="#door*64" x="5837" y="-1038" w="30" h="160" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*65" x="6087" y="-1038" w="30" h="160" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" attach="-1" mute="false" />
+<door uid="#door*1" x="-5753" y="-1318" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*2" x="-5303" y="-1338" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*3" x="-3093" y="-1588" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*4" x="-2643" y="-1588" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*5" x="-93" y="-2058" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*6" x="357" y="-2058" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*7" x="3277" y="-1718" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*8" x="3727" y="-1718" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*9" x="5747" y="-1708" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*10" x="6197" y="-1718" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*11" x="7347" y="-1608" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*12" x="7797" y="-1618" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*13" x="10437" y="-1518" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*14" x="10887" y="-1508" w="10" h="270" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<door uid="#door*15" x="14047" y="-3288" w="690" h="4210" moving="false" tarx="0" tary="0" maxspeed="10" vis="false" attach="-1" mute="false" />
+<decor uid="#decor*10" model="c3373" x="-5783" y="-1048" u="-14.5" v="-12" sx="-1" text="Hello World!" />
+<decor uid="#decor*58" model="c36851" x="-5523" y="-1328" u="-197.5" v="-47.5" sx="0.2" sy="0.2" text="Hello World!" />
+<decor uid="#decor*59" model="stone" x="-5163" y="-478" text="Hello World!" />
+<decor uid="#decor*69" model="stone" x="-3413" y="-698" text="Hello World!" />
+<decor uid="#decor*70" model="c23985" x="-2863" y="-1498" u="-99" v="-100" text="Hello World!" />
+<decor uid="#decor*91" model="c3373" x="-3123" y="-1328" u="-14.5" v="-12" sx="-1" text="Hello World!" />
+<decor uid="#decor*98" model="c36851" x="-2863" y="-1608" u="-197.5" v="-47.5" sx="0.2" sy="0.2" text="Hello World!" />
+<decor uid="#decor*99" model="c23985" x="137" y="-1958" u="-99" v="-100" text="Hello World!" />
+<decor uid="#decor*100" model="c3373" x="-123" y="-1788" u="-14.5" v="-12" sx="-1" text="Hello World!" />
+<decor uid="#decor*107" model="c36851" x="137" y="-2068" u="-197.5" v="-47.5" sx="0.2" sy="0.2" text="Hello World!" />
+<decor uid="#decor*108" model="ray_right" x="-113" y="-1808" text="Hello World!" />
+<decor uid="#decor*109" model="c23985" x="3507" y="-1618" u="-99" v="-100" text="Hello World!" />
+<decor uid="#decor*110" model="c3373" x="3247" y="-1448" u="-14.5" v="-12" sx="-1" text="Hello World!" />
+<decor uid="#decor*117" model="c36851" x="3507" y="-1728" u="-197.5" v="-47.5" sx="0.2" sy="0.2" text="Hello World!" />
+<decor uid="#decor*118" model="ray_right" x="3257" y="-1458" text="Hello World!" />
+<decor uid="#decor*119" model="stone" x="-423" y="-1418" r="-10" text="Hello World!" />
+<decor uid="#decor*120" model="ray_floor" x="2517" y="-1348" sy="1.5" text="Hello World!" />
+<decor uid="#decor*121" model="c23985" x="7577" y="-1518" u="-99" v="-100" text="Hello World!" />
+<decor uid="#decor*128" model="c36851" x="7577" y="-1628" u="-197.5" v="-47.5" sx="0.2" sy="0.2" text="Hello World!" />
+<decor uid="#decor*129" model="c23985" x="5977" y="-1628" u="-99" v="-100" text="Hello World!" />
+<decor uid="#decor*136" model="c36851" x="5977" y="-1738" u="-197.5" v="-47.5" sx="0.2" sy="0.2" text="Hello World!" />
+<decor uid="#decor*137" model="antigravity" x="5937" y="-438" text="Hello World!" />
+<decor uid="#decor*138" model="c12732" x="5777" y="-628" u="-57" v="-18.5" text="Hello World!" />
+<decor uid="#decor*139" model="c12732" x="6177" y="-668" u="-57" v="-18.5" text="Hello World!" />
+<decor uid="#decor*140" model="c12732" x="5977" y="-1118" u="-57" v="-18.5" text="Hello World!" />
+<decor uid="#decor*141" model="c23985" x="10667" y="-1418" u="-99" v="-100" text="Hello World!" />
+<decor uid="#decor*142" model="c3373" x="10407" y="-1248" u="-14.5" v="-12" sx="-1" text="Hello World!" />
+<decor uid="#decor*151" model="c36851" x="10667" y="-1528" u="-197.5" v="-47.5" sx="0.2" sy="0.2" text="Hello World!" />
+<decor uid="#decor*152" model="ray_right" x="10417" y="-1268" text="Hello World!" />
+<decor uid="#decor*153" model="c3373" x="5717" y="-1458" u="-14.5" v="-12" sx="-1" text="Hello World!" />
+<decor uid="#decor*154" model="ray_right" x="5727" y="-1468" text="Hello World!" />
+<decor uid="#decor*155" model="c3373" x="7317" y="-1348" u="-14.5" v="-12" sx="-1" text="Hello World!" />
+<decor uid="#decor*156" model="ray_right" x="7327" y="-1358" text="Hello World!" />
+<gun uid="#gun*22" x="-823" y="-3288" model="gun_bfg" command="-1" upg="3" />
+<gun uid="#gun*23" x="-5553" y="-1088" model="gun_sniper" command="-1" upg="0" />
+<gun uid="#gun*24" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*25" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*26" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*27" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*28" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*29" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*30" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*31" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*32" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*33" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*34" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*35" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*36" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*37" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*38" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*39" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*40" x="-5903" y="-618" model="gun_defibrillator" command="1" upg="0" />
+<gun uid="#gun*1" x="-5650" y="-1090" model="gun_sniper" command="-1" upg="0" />
+<lamp uid="#light*11" x="-5523" y="-1318" power="0.5" flare="false" />
+<lamp uid="#light*12" x="-2863" y="-1608" power="0.5" flare="false" />
+<lamp uid="#light*13" x="137" y="-2068" power="0.5" flare="false" />
+<lamp uid="#light*14" x="3507" y="-1728" power="0.5" flare="false" />
+<lamp uid="#light*15" x="7577" y="-1628" power="0.5" flare="false" />
+<lamp uid="#light*16" x="5977" y="-1738" power="0.5" flare="false" />
+<lamp uid="#light*17" x="5777" y="-628" power="0.4" flare="false" />
+<lamp uid="#light*18" x="6177" y="-668" power="0.4" flare="false" />
+<lamp uid="#light*19" x="5987" y="-1118" power="0.4" flare="false" />
+<lamp uid="#light*20" x="10667" y="-1528" power="0.5" flare="false" />
+<lamp uid="#light*1" x="-7563" y="-968" power="0.4" flare="false" />
+<lamp uid="#light*2" x="-6573" y="-968" power="0.4" flare="false" />
+<lamp uid="#light*3" x="5537" y="-848" power="0.4" flare="false" />
+<region uid="#region*37" x="-6573" y="-978" w="100" h="400" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*38" x="-6573" y="-1378" w="100" h="400" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*39" x="-983" y="-1458" w="50" h="100" use_target="#trigger*22" use_on="1" uses_timer="false" />
+<region uid="#region*40" x="-873" y="-1538" w="100" h="160" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*41" x="-873" y="-1698" w="100" h="160" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*42" x="2317" y="-958" w="50" h="80" use_target="#trigger*23" use_on="1" uses_timer="false" />
+<region uid="#region*43" x="3257" y="-878" w="50" h="550" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*44" x="3707" y="-878" w="50" h="550" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*45" x="5937" y="-1098" w="80" h="100" use_target="#trigger*24" use_on="1" uses_timer="false" />
+<region uid="#region*46" x="5327" y="-378" w="400" h="60" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*47" x="5837" y="-1198" w="30" h="160" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*48" x="6087" y="-1208" w="30" h="160" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*49" x="5477" y="-938" w="100" h="60" use_target="#trigger*25" use_on="1" attach="#door*63" uses_timer="false" />
+<region uid="#region*50" x="-5713" y="-1288" w="380" h="210" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*51" x="-5443" y="-1158" w="50" h="80" use_target="#trigger*26" use_on="1" uses_timer="false" />
+<region uid="#region*52" x="-3053" y="-1578" w="380" h="220" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*53" x="-53" y="-2028" w="380" h="210" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*54" x="3317" y="-1678" w="380" h="200" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*55" x="5787" y="-1698" w="370" h="210" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*56" x="7397" y="-1588" w="370" h="210" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*57" x="10477" y="-1488" w="380" h="210" use_target="-1" use_on="0" uses_timer="false" />
+<region uid="#region*58" x="-2773" y="-1438" w="50" h="80" use_target="#trigger*27" use_on="1" uses_timer="false" />
+<region uid="#region*59" x="-3013" y="-1438" w="50" h="80" use_target="#trigger*28" use_on="1" uses_timer="false" />
+<region uid="#region*60" x="10517" y="-1358" w="50" h="80" use_target="#trigger*29" use_on="1" uses_timer="false" />
+<region uid="#region*61" x="227" y="-1898" w="50" h="80" use_target="#trigger*30" use_on="1" uses_timer="false" />
+<region uid="#region*62" x="-13" y="-1898" w="50" h="80" use_target="#trigger*31" use_on="1" uses_timer="false" />
+<region uid="#region*63" x="3597" y="-1558" w="50" h="80" use_target="#trigger*32" use_on="1" uses_timer="false" />
+<region uid="#region*64" x="3347" y="-1558" w="50" h="80" use_target="#trigger*33" use_on="1" uses_timer="false" />
+<region uid="#region*65" x="5827" y="-1568" w="50" h="80" use_target="#trigger*34" use_on="1" uses_timer="false" />
+<region uid="#region*66" x="6067" y="-1568" w="50" h="80" use_target="#trigger*35" use_on="1" uses_timer="false" />
+<region uid="#region*67" x="7427" y="-1458" w="50" h="80" use_target="#trigger*36" use_on="1" uses_timer="false" />
+<region uid="#region*68" x="7667" y="-1458" w="50" h="80" use_target="#trigger*37" use_on="1" uses_timer="false" />
+<region uid="#region*69" x="-6673" y="-658" w="50" h="100" use_target="#trigger*40" use_on="1" uses_timer="false" />
+<region uid="#region*70" x="5157" y="-3278" w="30" h="2410" use_target="#trigger*41" use_on="6" uses_timer="false" />
+<region uid="#region*71" x="12427" y="-1478" w="1630" h="700" use_target="#trigger*42" use_on="6" uses_timer="false" />
+<region uid="#region*72" x="-7553" y="-3278" w="21600" h="2980" use_target="-1" use_on="0" uses_timer="false" />
+<trigger uid="#trigger*22" x="-963" y="-1488" enabled="true" maxcalls="1" execute="false" actions_1_type="0" actions_1_targetA="#door*55" actions_1_targetB="#region*41" actions_2_type="42" actions_2_targetA="DOOR IS OPENING! HURRY UP!" actions_2_targetB="#ffffff" />
+<trigger uid="#trigger*23" x="2347" y="-1008" enabled="true" maxcalls="1" execute="false" actions_1_type="38" actions_1_targetA="#pushf*36" actions_1_targetB="0" actions_2_type="0" actions_2_targetA="#door*61" actions_2_targetB="#region*43" actions_3_type="0" actions_3_targetA="#door*62" actions_3_targetB="#region*44" actions_4_type="233" actions_4_targetA="#decor*120" actions_4_targetB="0" />
+<trigger uid="#trigger*24" x="5907" y="-1088" enabled="true" maxcalls="1" execute="false" actions_1_type="0" actions_1_targetA="#door*64" actions_1_targetB="#region*47" actions_2_type="0" actions_2_targetA="#door*65" actions_2_targetB="#region*48" />
+<trigger uid="#trigger*25" x="5537" y="-1008" enabled="true" maxcalls="1" execute="false" actions_1_type="0" actions_1_targetA="#door*63" actions_1_targetB="#region*46" />
+<trigger uid="#trigger*26" x="-5413" y="-1178" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*50" actions_1_targetB="#region*52" />
+<trigger uid="#trigger*27" x="-2753" y="-1458" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*52" actions_1_targetB="#region*53" />
+<trigger uid="#trigger*28" x="-2983" y="-1458" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*52" actions_1_targetB="#region*50" />
+<trigger uid="#trigger*29" x="10547" y="-1378" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*57" actions_1_targetB="#region*56" />
+<trigger uid="#trigger*30" x="257" y="-1918" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*53" actions_1_targetB="#region*54" />
+<trigger uid="#trigger*31" x="17" y="-1918" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*53" actions_1_targetB="#region*52" />
+<trigger uid="#trigger*32" x="3627" y="-1578" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*54" actions_1_targetB="#region*55" />
+<trigger uid="#trigger*33" x="3377" y="-1578" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*54" actions_1_targetB="#region*53" />
+<trigger uid="#trigger*34" x="5857" y="-1588" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*55" actions_1_targetB="#region*54" />
+<trigger uid="#trigger*35" x="6097" y="-1588" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*55" actions_1_targetB="#region*56" />
+<trigger uid="#trigger*36" x="7457" y="-1478" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*56" actions_1_targetB="#region*55" />
+<trigger uid="#trigger*37" x="7697" y="-1478" enabled="true" maxcalls="-1" execute="false" actions_1_type="70" actions_1_targetA="#region*56" actions_1_targetB="#region*57" />
+<trigger uid="#trigger*38" x="-6903" y="-798" enabled="true" maxcalls="1" execute="false" actions_1_type="42" actions_1_targetA="Escape the prison and don't let the sniper hit you!" actions_1_targetB="3" />
+<trigger uid="#trigger*39" x="-6903" y="-758" enabled="true" maxcalls="1" execute="true" actions_1_type="42" actions_1_targetA="Domino-Prisonescape" actions_1_targetB="#ffffff" />
+<trigger uid="#trigger*40" x="-6653" y="-678" enabled="true" maxcalls="1" execute="false" actions_1_type="42" actions_1_targetA="Prison Door Opened!" actions_1_targetB="4" actions_2_type="0" actions_2_targetA="#door*35" actions_2_targetB="#region*38" />
+<trigger uid="#trigger*41" x="5077" y="-1458" enabled="true" maxcalls="1" execute="false" actions_1_type="42" actions_1_targetA="Quick! Someone has to go down and open the gate!" actions_1_targetB="3" />
+<trigger uid="#trigger*42" x="12667" y="-1648" enabled="true" maxcalls="1" execute="false" actions_1_type="42" actions_1_targetA="We Escaped!" actions_1_targetB="3" actions_2_type="39" actions_2_targetA="15" actions_2_targetB="0" actions_3_type="11" actions_3_targetA="#player*10" actions_3_targetB="#region*72" actions_4_type="25" actions_4_targetA="#timer*1" actions_4_targetB="0" />
+<trigger uid="#trigger*1" x="12727" y="-1648" enabled="true" maxcalls="1" execute="false" actions_1_type="39" actions_1_targetA="30" actions_1_targetB="0" />
+<timer uid="#timer*2" x="-6873" y="-798" enabled="true" maxcalls="1" target="#trigger*38" delay="90" />
+<timer uid="#timer*1" x="12697" y="-1648" enabled="true" maxcalls="1" target="#trigger*1" delay="30" />
+<inf x="-5843" y="-1398" mark="gamescale" forteam="40" />
+<inf x="-5843" y="-1368" mark="shadowmap_size" forteam="3" />
+<inf x="-5853" y="-1428" mark="sky" forteam="11" />
