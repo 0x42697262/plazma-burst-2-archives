@@ -16,6 +16,7 @@
 ### Base
 
 - [kubakuba-base2](./kubakuba-base2.xml)
+- [slendier-shadowbase](./slendier-shadowbase.xml)
 
 ### 1 VS N Players
 
