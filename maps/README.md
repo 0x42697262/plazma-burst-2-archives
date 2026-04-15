@@ -8,6 +8,7 @@
 - [cahir-traps4](./cahir-traps4.xml)
 - [cahir-traps9](./cahir-traps9.xml)
 - [kaser-traps7](./kaser-traps7.xml)
+- [wanted2001-saw](./wanted2001-saw.xml)
 
 ### Selfboost
 
