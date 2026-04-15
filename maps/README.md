@@ -37,6 +37,7 @@
 
 - [pb dman-money](./pb%20dman-money.xml)
 - [racines 15-escape_hard](./racines%2015-escape_hard.xml)
+- [wanted2001-jeorge](./wanted2001-jeorge.xml)
 
 ### Zombie Infection
 
